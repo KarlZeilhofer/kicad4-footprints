@@ -23,7 +23,7 @@
   (fp_line (start 4.25 1.85) (end -4.25 1.85) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -2.9 0) (size 2.2 3) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.9 0) (size 2.2 3) (layers F.Cu F.Paste F.Mask))
-  (model Capacitors_SMD.3dshapes/C_1812.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1812.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

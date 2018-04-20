@@ -20,4 +20,4 @@
   (fp_arc (start -12.70 0) (end -4.75 4.50) (angle 301) (layer F.CrtYd) (width 0.05))
   (pad 2 thru_hole circle (at -12.70 0) (size 15.24 15.24) (drill 9.65) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 5.08 5.08) (drill 2.54) (layers *.Cu *.Mask))
-  (model Connectors.3dshapes\BNC.wrl (at (xyz -0.50 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes\BNC.wrl (at (xyz -0.50 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))

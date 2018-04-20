@@ -32,7 +32,7 @@
   (pad 7 thru_hole circle (at 21 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 8 thru_hole circle (at 24.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 28 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_9pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_9pol.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

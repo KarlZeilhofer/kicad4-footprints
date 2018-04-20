@@ -14,7 +14,7 @@
   (pad 1 thru_hole circle (at -2.54 15.875) (size 1.778 1.778) (drill 1.1938) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.54 15.875) (size 1.778 1.778) (drill 1.1938) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 0 0) (size 4.064 4.064) (drill 3.175) (layers *.Cu *.SilkS *.Mask))
-  (model Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_horizontal_Diameter26mm.wrl
+  (model ${KISYS3DMOD}/Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_horizontal_Diameter26mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 2.7 2.7 2.7))
     (rotate (xyz 0 0 0))

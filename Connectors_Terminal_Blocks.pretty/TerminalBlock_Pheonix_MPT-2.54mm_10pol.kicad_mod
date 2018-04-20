@@ -37,7 +37,7 @@
   (pad 8 thru_hole oval (at 17.78 0 180) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 20.32 0 180) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 22.86 0 180) (size 1.99898 1.99898) (drill 1.09728) (layers *.Cu *.Mask))
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_10pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_10pol.wrl
     (at (xyz 0.45 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

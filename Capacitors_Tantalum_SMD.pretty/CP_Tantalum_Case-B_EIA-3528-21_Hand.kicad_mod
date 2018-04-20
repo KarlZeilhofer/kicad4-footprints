@@ -26,7 +26,7 @@
   (fp_line (start -4.05 -1.65) (end -4.05 1.65) (layer F.SilkS) (width 0.12))
   (pad 1 smd rect (at -2.15 0) (size 3.2 2.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.15 0) (size 3.2 2.5) (layers F.Cu F.Paste F.Mask))
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

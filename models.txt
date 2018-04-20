@@ -1,15 +1,15 @@
   (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Bulgin_BX0036_1xC.wrl
-  (model Battery_Holders.3dshapes/Keystone_103_1x20mm-CoinCell.wrl
-  (model Battery_Holders.3dshapes/Keystone_104_1x23mm-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_103_1x20mm-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_104_1x23mm-CoinCell.wrl
   (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_1042_1x18650.wrl
-  (model Battery_Holders.3dshapes/Keystone_105_1x2430-CoinCell.wrl
-  (model Battery_Holders.3dshapes/Keystone_106_1x20mm-CoinCell.wrl
-  (model Battery_Holders.3dshapes/Keystone_107_1x23mm-CoinCell.wrl
-  (model Battery_Holders.3dshapes/Keystone_2993.wrl
-  (model Battery_Holders.3dshapes/Keystone_3000_1x12mm-CoinCell.wrl
-  (model Battery_Holders.3dshapes/Keystone_3001_1x12mm-CoinCell.wrl
-  (model Battery_Holders.3dshapes/Keystone_3008_1x2450-CoinCell.wrl
-  (model Battery_Holders.3dshapes/Keystone_3009_1x2450-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_105_1x2430-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_106_1x20mm-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_107_1x23mm-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_2993.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_3000_1x12mm-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_3001_1x12mm-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_3008_1x2450-CoinCell.wrl
+  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_3009_1x2450-CoinCell.wrl
   (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_3034_1x20mm-CoinCell.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/Panasonic_EVQPUJ_EVQPUA.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/Panasonic_EVQPUK_EVQPUB.wrl
@@ -18,37 +18,37 @@
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x10_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x10_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x10_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x10_W8.61mm_Slide_LowProfile.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x11_W8.61mm_Slide_LowProfile.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x12_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x10_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x11_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x12_W8.61mm_Slide_LowProfile.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x1_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x1_W8.61mm_Slide_LowProfile.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x2_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x2_W8.61mm_Slide_LowProfile.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x3_W5.9mm_Slide_Copal_CVS.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x3_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x3_W8.61mm_Slide_LowProfile.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x4_W8.61mm_Slide_LowProfile.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x5_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x4_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x5_W8.61mm_Slide_LowProfile.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x6_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x6_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x6_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x6_W8.61mm_Slide_LowProfile.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x7_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x6_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x7_W8.61mm_Slide_LowProfile.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x8_W8.61mm_Slide_LowProfile.wrl
-  (model Buttons_Switches.3dshapes/SW_DIP_x9_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x8_W8.61mm_Slide_LowProfile.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches.3dshapes/SW_DIP_x9_W8.61mm_Slide_LowProfile.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SP3T_PCM13.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPDT_CK-JS102011SAQN.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPDT_PCM12.wrl
@@ -70,7 +70,7 @@
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_EVQP7A.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_EVQP7C.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_EVQPE1.wrl
-  (model Buttons_Switches_SMD.3dshapes\SW_SPST_EVQQ2.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes\SW_SPST_EVQQ2.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_FSMSM.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_KMR2.wrl
   (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08.wrl
@@ -153,48 +153,48 @@
   (model ${KISYS3DMOD}/Buzzers_Beepers.3dshapes/MagneticBuzzer_ProSignal_ABI-010-RC.wrl
   (model ${KISYS3DMOD}/Buzzers_Beepers.3dshapes/MagneticBuzzer_ProSignal_ABT-410-RC.wrl
   (model ${KISYS3DMOD}/Buzzers_Beepers.3dshapes/MagneticBuzzer_StarMicronics_HMB-06_HMB-12.wrl
-  (model Capacitors_SMD.3dshapes/C_0201.wrl
-  (model Capacitors_SMD.3dshapes/C_0201.wrl
-  (model Capacitors_SMD.3dshapes/C_0402.wrl
-  (model Capacitors_SMD.3dshapes/C_0402.wrl
-  (model Capacitors_SMD.3dshapes/C_0603.wrl
-  (model Capacitors_SMD.3dshapes/C_0603.wrl
-  (model Capacitors_SMD.3dshapes/C_0805.wrl
-  (model Capacitors_SMD.3dshapes/C_0805.wrl
-  (model Capacitors_SMD.3dshapes/C_1206.wrl
-  (model Capacitors_SMD.3dshapes/C_1206.wrl
-  (model Capacitors_SMD.3dshapes/C_1210.wrl
-  (model Capacitors_SMD.3dshapes/C_1210.wrl
-  (model Capacitors_SMD.3dshapes/C_1812.wrl
-  (model Capacitors_SMD.3dshapes/C_1812.wrl
-  (model Capacitors_SMD.3dshapes/C_1825.wrl
-  (model Capacitors_SMD.3dshapes/C_1825.wrl
-  (model Capacitors_SMD.3dshapes/C_2220.wrl
-  (model Capacitors_SMD.3dshapes/C_2220.wrl
-  (model Capacitors_SMD.3dshapes/C_2225.wrl
-  (model Capacitors_SMD.3dshapes/C_2225.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_10x10.5.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_10x10.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_10x7.7.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_3x5.3.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_4x4.5.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_4x5.3.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_4x5.7.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_4x5.8.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_5x4.5.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_5x5.3.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_5x5.7.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_5x5.8.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_6.3x4.5.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_6.3x5.3.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_6.3x5.7.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_6.3x5.8.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_6.3x7.7.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_8x10.5.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_8x10.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_8x5.4.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_8x6.5.wrl
-  (model Capacitors_SMD.3dshapes/CP_Elec_8x6.7.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0201.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0201.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0402.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0402.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0603.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0603.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0805.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_0805.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1206.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1206.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1210.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1210.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1812.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1812.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1825.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_1825.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_2220.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_2220.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_2225.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_2225.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_10x10.5.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_10x10.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_10x7.7.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_3x5.3.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_4x4.5.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_4x5.3.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_4x5.7.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_4x5.8.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_5x4.5.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_5x5.3.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_5x5.7.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_5x5.8.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_6.3x4.5.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_6.3x5.3.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_6.3x5.7.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_6.3x5.8.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_6.3x7.7.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_8x10.5.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_8x10.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_8x5.4.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_8x6.5.wrl
+  (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/CP_Elec_8x6.7.wrl
   (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_Trimmer_Murata_TZB4-A.wrl
   (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_Trimmer_Murata_TZB4-B.wrl
   (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_Trimmer_Murata_TZC3.wrl
@@ -207,39 +207,39 @@
   (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_Trimmer_Voltronics_JR.wrl
   (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_Trimmer_Voltronics_JV.wrl
   (model ${KISYS3DMOD}/Capacitors_SMD.3dshapes/C_Trimmer_Voltronics_JZ.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-A_EIA-3216-18.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-A_EIA-3216-18.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-A_EIA-3216-18.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-C_EIA-6032-28.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-C_EIA-6032-28.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-C_EIA-6032-28.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-D_EIA-7343-31.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-D_EIA-7343-31.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-D_EIA-7343-31.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-E_EIA-7260-38.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-E_EIA-7260-38.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-E_EIA-7260-38.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-R_EIA-2012-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-R_EIA-2012-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-R_EIA-2012-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-S_EIA-3216-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-S_EIA-3216-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-S_EIA-3216-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-T_EIA-3528-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-T_EIA-3528-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-T_EIA-3528-12.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-U_EIA-6032-15.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-U_EIA-6032-15.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-U_EIA-6032-15.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-V_EIA-7343-20.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-V_EIA-7343-20.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-V_EIA-7343-20.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-X_EIA-7343-43.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-X_EIA-7343-43.wrl
-  (model Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-X_EIA-7343-43.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-A_EIA-3216-18.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-A_EIA-3216-18.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-A_EIA-3216-18.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-B_EIA-3528-21.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-C_EIA-6032-28.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-C_EIA-6032-28.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-C_EIA-6032-28.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-D_EIA-7343-31.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-D_EIA-7343-31.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-D_EIA-7343-31.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-E_EIA-7260-38.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-E_EIA-7260-38.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-E_EIA-7260-38.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-R_EIA-2012-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-R_EIA-2012-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-R_EIA-2012-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-S_EIA-3216-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-S_EIA-3216-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-S_EIA-3216-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-T_EIA-3528-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-T_EIA-3528-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-T_EIA-3528-12.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-U_EIA-6032-15.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-U_EIA-6032-15.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-U_EIA-6032-15.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-V_EIA-7343-20.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-V_EIA-7343-20.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-V_EIA-7343-20.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-X_EIA-7343-43.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-X_EIA-7343-43.wrl
+  (model ${KISYS3DMOD}/Capacitors_Tantalum_SMD.3dshapes/CP_Tantalum_Case-X_EIA-7343-43.wrl
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Axial_L12.0mm_D10.5mm_P15.00mm_Horizontal.wrl
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Axial_L12.0mm_D10.5mm_P20.00mm_Horizontal.wrl
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Axial_L12.0mm_D6.5mm_P15.00mm_Horizontal.wrl
@@ -597,81 +597,81 @@
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Rect_L9.0mm_W8.5mm_P7.50mm_MKT.wrl
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Rect_L9.0mm_W9.5mm_P7.50mm_MKT.wrl
   (model ${KISYS3DMOD}/Capacitors_THT.3dshapes/C_Rect_L9.0mm_W9.8mm_P7.50mm_MKT.wrl
-  (model Choke_SMD.3dshapes/Choke_SMD_12x12mm_h4.5mm.wrl
-  (model Choke_SMD.3dshapes/Choke_SMD_12x12mm_h6mm.wrl
-  (model Choke_SMD.3dshapes/Choke_SMD_12x12mm_h8mm.wrl
-  (model Choke_SMD.3dshapes/Choke_SMD_Taiyo_NRS50XX-Handsoldering.wrl
-  (model Choke_SMD.3dshapes/Choke_SMD_Taiyo_NRS50XX.wrl
-  (model Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_15x40mm.wrl
-  (model Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_horizontal_Diameter26mm.wrl
+  (model ${KISYS3DMOD}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h4.5mm.wrl
+  (model ${KISYS3DMOD}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h6mm.wrl
+  (model ${KISYS3DMOD}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h8mm.wrl
+  (model ${KISYS3DMOD}/Choke_SMD.3dshapes/Choke_SMD_Taiyo_NRS50XX-Handsoldering.wrl
+  (model ${KISYS3DMOD}/Choke_SMD.3dshapes/Choke_SMD_Taiyo_NRS50XX.wrl
+  (model ${KISYS3DMOD}/Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_15x40mm.wrl
+  (model ${KISYS3DMOD}/Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_horizontal_Diameter26mm.wrl
   (model ${KISYS3DMOD}/Connectors_Card.3dshapes/Hirose_DM3AT-SF-PEJM5.wrl
   (model ${KISYS3DMOD}/Connectors_Card.3dshapes/Hirose_DM3BT-DSF-PEJS.wrl
   (model ${KISYS3DMOD}/Connectors_Card.3dshapes/Hirose_DM3D-SF.wrl
   (model ${KISYS3DMOD}/Connectors_Card.3dshapes/MicroSd_Wurth_693072010801.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX0605L0X_2x03x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1005L0X_2x05x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1205L0X_2x06x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1605L0X_2x08x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX2005L0X_2x10x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX2605L0X_2x13x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX3405L0X_2x17x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX5005L0X_2x25x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX0605L0X_2x03x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX0605L1X_2x03x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1005L0X_2x05x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1005L1X_2x05x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1205L0X_2x06x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1205L1X_2x06x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1605L0X_2x08x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1605L1X_2x08x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2005L0X_2x10x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2005L1X_2x10x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2605L0X_2x13x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2605L1X_2x13x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L0X_2x17x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L1X_2x17x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX5005L0X_2x25x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX5005L1X_2x25x1.25mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_02x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_02x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_03x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_03x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_04x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_04x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_05x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_05x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_06x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_06x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_07x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_07x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_17x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_17x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_22x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_22x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x02x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x02x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x03x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x03x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x04x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x04x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x05x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x05x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x06x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x06x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x07x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x07x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x08x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x08x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x09x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x09x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x10x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x10x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x13x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x13x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x17x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x17x2.00mm_Straight_StrainRelief.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x22x2.00mm_Straight.wrl
-  (model Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x22x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX0605L0X_2x03x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1005L0X_2x05x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1205L0X_2x06x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1605L0X_2x08x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX2005L0X_2x10x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX2605L0X_2x13x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX3405L0X_2x17x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX5005L0X_2x25x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX0605L0X_2x03x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX0605L1X_2x03x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1005L0X_2x05x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1005L1X_2x05x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1205L0X_2x06x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1205L1X_2x06x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1605L0X_2x08x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX1605L1X_2x08x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2005L0X_2x10x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2005L1X_2x10x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2605L0X_2x13x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX2605L1X_2x13x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L0X_2x17x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L1X_2x17x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX5005L0X_2x25x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX5005L1X_2x25x1.25mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_02x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_02x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_03x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_03x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_04x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_04x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_05x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_05x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_06x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_06x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_07x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_07x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_17x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_17x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_22x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_22x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x02x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x02x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x03x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x03x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x04x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x04x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x05x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x05x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x06x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x06x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x07x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x07x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x08x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x08x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x09x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x09x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x10x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x10x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x13x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x13x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x17x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x17x2.00mm_Straight_StrainRelief.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x22x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_LTek-Male_2x22x2.00mm_Straight_StrainRelief.wrl
   (model ${KISYS3DMOD}/Connectors_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-0x01.wrl
   (model ${KISYS3DMOD}/Connectors_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-1x01.wrl
   (model ${KISYS3DMOD}/Connectors_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-2x0x.wrl
@@ -770,50 +770,50 @@
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/B22-J11DK_2x11_Pitch2.54mm.wrl
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/B26-J11DK_2x13_Pitch2.54mm.wrl
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/B30-J11DK_2x15_Pitch2.54mm.wrl
-  (model Connectors_JST.3dshapes/JST_ACH_BM02B-ACHSS_02x1.20mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ACH_BM03B-ACHSS_03x1.20mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_AUH_BM03B-AUHKS-GA-TB_03x1.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_AUH_BM05B-AUHKS-GA-TB_05x1.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B02B-EH-A_02x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B03B-EH-A_03x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B04B-EH-A_04x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B05B-EH-A_05x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B06B-EH-A_06x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B07B-EH-A_07x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B08B-EH-A_08x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B09B-EH-A_09x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B10B-EH-A_10x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B11B-EH-A_11x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B12B-EH-A_12x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B13B-EH-A_13x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B14B-EH-A_14x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_B15B-EH-A_15x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S02B-EH_02x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S03B-EH_03x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S04B-EH_04x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S05B-EH_05x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S06B-EH_06x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S07B-EH_07x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S08B-EH_08x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S09B-EH_09x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S10B-EH_10x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S11B-EH_11x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S12B-EH_12x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S13B-EH_13x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S14B-EH_14x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_EH_S15B-EH_15x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_B06B-J21DK-GG_2x03x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_B08B-J21DK-GG_2x04x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_B10B-J21DK-GG_2x05x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_B12B-J21DK-GG_2x06x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_B16B-J21DK-GG_2x08x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_B20B-J21DK-GG_2x10x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_S06B-J21DK-GG_2x03x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_S08B-J21DK-GG_2x04x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_S10B-J21DK-GG_2x05x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_S12B-J21DK-GG_2x06x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_S16B-J21DK-GG_2x08x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_J2100_S20B-J21DK-GG_2x10x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ACH_BM02B-ACHSS_02x1.20mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ACH_BM03B-ACHSS_03x1.20mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_AUH_BM03B-AUHKS-GA-TB_03x1.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_AUH_BM05B-AUHKS-GA-TB_05x1.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B02B-EH-A_02x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B03B-EH-A_03x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B04B-EH-A_04x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B05B-EH-A_05x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B06B-EH-A_06x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B07B-EH-A_07x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B08B-EH-A_08x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B09B-EH-A_09x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B10B-EH-A_10x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B11B-EH-A_11x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B12B-EH-A_12x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B13B-EH-A_13x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B14B-EH-A_14x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_B15B-EH-A_15x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S02B-EH_02x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S03B-EH_03x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S04B-EH_04x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S05B-EH_05x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S06B-EH_06x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S07B-EH_07x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S08B-EH_08x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S09B-EH_09x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S10B-EH_10x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S11B-EH_11x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S12B-EH_12x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S13B-EH_13x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S14B-EH_14x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S15B-EH_15x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_B06B-J21DK-GG_2x03x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_B08B-J21DK-GG_2x04x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_B10B-J21DK-GG_2x05x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_B12B-J21DK-GG_2x06x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_B16B-J21DK-GG_2x08x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_B20B-J21DK-GG_2x10x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_S06B-J21DK-GG_2x03x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_S08B-J21DK-GG_2x04x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_S10B-J21DK-GG_2x05x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_S12B-J21DK-GG_2x06x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_S16B-J21DK-GG_2x08x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_J2100_S20B-J21DK-GG_2x10x2.50mm_Angled.wrl
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_LEA_SM02B-LEASS-TF_02x1.80mm_Angled.wrl
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PH_B10B-PH-K_10x2.00mm_Straight.wrl
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PH_B10B-PH-SM4-TB_10x2.00mm_Straight.wrl
@@ -874,102 +874,102 @@
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PH_S8B-PH-SM4-TB_08x2.00mm_Angled.wrl
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PH_S9B-PH-K_09x2.00mm_Angled.wrl
   (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PH_S9B-PH-SM4-TB_09x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B08B-PUDSS_2x04x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B10B-PUDSS_2x05x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B12B-PUDSS_2x06x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B14B-PUDSS_2x07x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B16B-PUDSS_2x08x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B18B-PUDSS_2x09x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B20B-PUDSS_2x10x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B22B-PUDSS_2x11x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B24B-PUDSS_2x12x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B26B-PUDSS_2x13x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B28B-PUDSS_2x14x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B30B-PUDSS_2x15x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B32B-PUDSS_2x16x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B34B-PUDSS_2x17x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B36B-PUDSS_2x18x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B38B-PUDSS_2x19x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_B40B-PUDSS_2x20x2.00mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S08B-PUDSS-1_2x04x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S10B-PUDSS-1_2x05x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S12B-PUDSS-1_2x06x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S14B-PUDSS-1_2x07x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S16B-PUDSS-1_2x08x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S18B-PUDSS-1_2x09x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S20B-PUDSS-1_2x10x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S22B-PUDSS-1_2x11x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S24B-PUDSS-1_2x12x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S26B-PUDSS-1_2x13x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S28B-PUDSS-1_2x14x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S30B-PUDSS-1_2x15x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S32B-PUDSS-1_2x16x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S34B-PUDSS-1_2x17x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S36B-PUDSS-1_2x18x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S38B-PUDSS-1_2x19x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_PUD_S40B-PUDSS-1_2x20x2.00mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SFH_SM02B-SFHRS-TF_02x1.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM02B-SURS-TF_02x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM03B-SURS-TF_03x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM04B-SURS-TF_04x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM05B-SURS-TF_05x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM06B-SURS-TF_06x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM08B-SURS-TF_08x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM10B-SURS-TF_10x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM12B-SURS-TF_12x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM14B-SURS-TF_14x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM15B-SURS-TF_15x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM16B-SURS-TF_16x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM17B-SURS-TF_17x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM20B-SURS-TF_20x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_SUR_SM22B-SURS-TF_22x0.80mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XAG_SM05B-XAGKS-BN-TB_5x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B02B-XH-A_02x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B03B-XH-A_03x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B04B-XH-A_04x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B05B-XH-A_05x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B06B-XH-A_06x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B07B-XH-A_07x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B08B-XH-A_08x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B09B-XH-A_09x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B10B-XH-A_10x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B11B-XH-A_11x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B12B-XH-A_12x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B13B-XH-A_13x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B14B-XH-A_14x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B15B-XH-A_15x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B16B-XH-A_16x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_B20B-XH-A_20x2.50mm_Straight.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S02B-XH-A_02x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S03B-XH-A_03x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S04B-XH-A_04x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S05B-XH-A_05x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S06B-XH-A_06x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S07B-XH-A_07x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S08B-XH-A_08x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S09B-XH-A_09x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S10B-XH-A_10x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S11B-XH-A_11x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S12B-XH-A_12x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S13B-XH-A_13x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S14B-XH-A_14x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S15B-XH-A_15x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_XH_S16B-XH-A_16x2.50mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM02B-ZESS-TB_02x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM03B-ZESS-TB_03x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM04B-ZESS-TB_04x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM05B-ZESS-TB_05x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM06B-ZESS-TB_06x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM07B-ZESS-TB_07x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM08B-ZESS-TB_08x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM09B-ZESS-TB_09x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM10B-ZESS-TB_10x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM11B-ZESS-TB_11x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM12B-ZESS-TB_12x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM13B-ZESS-TB_13x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM14B-ZESS-TB_14x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM15B-ZESS-TB_15x1.5mm_Angled.wrl
-  (model Connectors_JST.3dshapes/JST_ZE_SM16B-ZESS-TB_16x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B08B-PUDSS_2x04x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B10B-PUDSS_2x05x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B12B-PUDSS_2x06x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B14B-PUDSS_2x07x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B16B-PUDSS_2x08x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B18B-PUDSS_2x09x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B20B-PUDSS_2x10x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B22B-PUDSS_2x11x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B24B-PUDSS_2x12x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B26B-PUDSS_2x13x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B28B-PUDSS_2x14x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B30B-PUDSS_2x15x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B32B-PUDSS_2x16x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B34B-PUDSS_2x17x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B36B-PUDSS_2x18x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B38B-PUDSS_2x19x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_B40B-PUDSS_2x20x2.00mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S08B-PUDSS-1_2x04x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S10B-PUDSS-1_2x05x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S12B-PUDSS-1_2x06x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S14B-PUDSS-1_2x07x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S16B-PUDSS-1_2x08x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S18B-PUDSS-1_2x09x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S20B-PUDSS-1_2x10x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S22B-PUDSS-1_2x11x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S24B-PUDSS-1_2x12x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S26B-PUDSS-1_2x13x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S28B-PUDSS-1_2x14x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S30B-PUDSS-1_2x15x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S32B-PUDSS-1_2x16x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S34B-PUDSS-1_2x17x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S36B-PUDSS-1_2x18x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S38B-PUDSS-1_2x19x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_PUD_S40B-PUDSS-1_2x20x2.00mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SFH_SM02B-SFHRS-TF_02x1.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM02B-SURS-TF_02x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM03B-SURS-TF_03x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM04B-SURS-TF_04x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM05B-SURS-TF_05x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM06B-SURS-TF_06x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM08B-SURS-TF_08x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM10B-SURS-TF_10x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM12B-SURS-TF_12x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM14B-SURS-TF_14x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM15B-SURS-TF_15x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM16B-SURS-TF_16x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM17B-SURS-TF_17x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM20B-SURS-TF_20x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_SUR_SM22B-SURS-TF_22x0.80mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XAG_SM05B-XAGKS-BN-TB_5x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B02B-XH-A_02x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B03B-XH-A_03x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B04B-XH-A_04x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B05B-XH-A_05x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B06B-XH-A_06x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B07B-XH-A_07x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B08B-XH-A_08x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B09B-XH-A_09x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B10B-XH-A_10x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B11B-XH-A_11x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B12B-XH-A_12x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B13B-XH-A_13x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B14B-XH-A_14x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B15B-XH-A_15x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B16B-XH-A_16x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_B20B-XH-A_20x2.50mm_Straight.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S02B-XH-A_02x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S03B-XH-A_03x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S04B-XH-A_04x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S05B-XH-A_05x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S06B-XH-A_06x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S07B-XH-A_07x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S08B-XH-A_08x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S09B-XH-A_09x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S10B-XH-A_10x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S11B-XH-A_11x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S12B-XH-A_12x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S13B-XH-A_13x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S14B-XH-A_14x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S15B-XH-A_15x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_XH_S16B-XH-A_16x2.50mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM02B-ZESS-TB_02x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM03B-ZESS-TB_03x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM04B-ZESS-TB_04x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM05B-ZESS-TB_05x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM06B-ZESS-TB_06x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM07B-ZESS-TB_07x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM08B-ZESS-TB_08x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM09B-ZESS-TB_09x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM10B-ZESS-TB_10x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM11B-ZESS-TB_11x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM12B-ZESS-TB_12x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM13B-ZESS-TB_13x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM14B-ZESS-TB_14x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM15B-ZESS-TB_15x1.5mm_Angled.wrl
+  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_ZE_SM16B-ZESS-TB_16x1.5mm_Angled.wrl
   (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_FFC-502244-1530.wrl
   (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_FFC-502244-2430.wrl
   (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_FFC-502244-3330.wrl
@@ -1790,7 +1790,7 @@
   (model ${KISYS3DMOD}/Connectors.3dshapes/Banana_Jack_2Pin.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/Banana_Jack_3Pin.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/bnc-ci.wrl
-  (model Connectors.3dshapes\BNC.wrl (at (xyz -0.50 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes\BNC.wrl (at (xyz -0.50 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
   (model ${KISYS3DMOD}/Connectors.3dshapes/bornier2.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KISYS3DMOD}/Connectors.3dshapes/bornier3.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/bornier4.wrl
@@ -1823,11 +1823,11 @@
   (model ${KISYS3DMOD}/Connectors.3dshapes/DB9M_CI.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/DB9MC.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/DB9MD.wrl (at (xyz 0.22 -0.06 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model Connectors.3dshapes\Fan_Pin_Header_Straight_1x03.wrl
-  (model Connectors.3dshapes\Fan_Pin_Header_Straight_1x04.wrl
+  (model ${KISYS3DMOD}/Connectors.3dshapes\Fan_Pin_Header_Straight_1x03.wrl
+  (model ${KISYS3DMOD}/Connectors.3dshapes\Fan_Pin_Header_Straight_1x04.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/Grove_1x04.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/he10-10d.wrl (at (xyz 0.20 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model Connectors.3dshapes\HE10-20D.wrl (at (xyz 0.45 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Connectors.3dshapes\HE10-20D.wrl (at (xyz 0.45 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KISYS3DMOD}/Connectors.3dshapes/JACK_ALIM.wrl (at (xyz -0.24 0.00 0)) (scale (xyz 0.80 0.80 0.80)) (rotate (xyz 0 0 0))))
   (model ${KISYS3DMOD}/Connectors.3dshapes/microSD_Card_Receptacle_Wuerth_693072010801.wrl
   (model ${KISYS3DMOD}/Connectors.3dshapes/NMJ6HCD2.wrl (at (xyz 0.32 0.17 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz -90 0 180))))
@@ -1911,8 +1911,8 @@
   (model ${KISYS3DMOD}/Connectors_Samtec.3dshapes/SL-130-X-XX_1x30.wrl
   (model ${KISYS3DMOD}/Connectors_Samtec.3dshapes/SL-131-X-XX_1x31.wrl
   (model ${KISYS3DMOD}/Connectors_Samtec.3dshapes/SL-132-X-XX_1x32.wrl
-  (model Sockets_BNC.3dshapes/BNC_Socket_TYCO-AMP.wrl
-  (model Sockets_BNC.3dshapes/BNC_Socket_TYCO-AMP_LargePads.wrl
+  (model ${KISYS3DMOD}/Sockets_BNC.3dshapes/BNC_Socket_TYCO-AMP.wrl
+  (model ${KISYS3DMOD}/Sockets_BNC.3dshapes/BNC_Socket_TYCO-AMP_LargePads.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_02x3.5mm_Straight.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_03x3.5mm_Straight.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_04x3.5mm_Straight.wrl
@@ -1928,47 +1928,47 @@
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_14x3.5mm_Straight.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_15x3.5mm_Straight.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_16x3.5mm_Straight.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-10pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-11pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-12pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-13pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-14pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-15pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-16pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-2pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-3pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-4pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-5pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-6pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-7pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-8pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-9pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_10pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_11pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_12pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_2pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_3pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_4pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_5pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_6pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_7pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_8pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_9pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_10pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_11pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_12pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_13pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_14pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_15pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_16pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_2pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_3pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_4pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_5pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_6pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_7pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_8pol.wrl
-  (model Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_9pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-10pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-11pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-12pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-13pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-14pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-15pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-16pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-2pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-3pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-4pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-5pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-6pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-7pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-8pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-9pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_10pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_11pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_12pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_2pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_3pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_4pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_5pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_6pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_7pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_8pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_9pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_10pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_11pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_12pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_13pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_14pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_15pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_16pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_2pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_3pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_4pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_5pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_6pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_7pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_8pol.wrl
+  (model ${KISYS3DMOD}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_9pol.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB132_02x5mm_Straight.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB133_03x5mm_Straight.wrl
   (model ${KISYS3DMOD}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_04x5mm_Straight.wrl
@@ -2272,8 +2272,8 @@
   (model ${KISYS3DMOD}/Diodes_THT.3dshapes/D_T-1_P2.54mm_Vertical_AnodeUp.wrl
   (model ${KISYS3DMOD}/Diodes_THT.3dshapes/D_T-1_P2.54mm_Vertical_KathodeUp.wrl
   (model ${KISYS3DMOD}/Diodes_THT.3dshapes/D_T-1_P5.08mm_Horizontal.wrl
-  (model Displays_7-Segment.3dshapes/7SEGMENT-LED__HDSM531_HDSM533_SMD.wrl
-  (model Displays_7-Segment.3dshapes/7SegmentLED_LTS6760_LTS6780.wrl
+  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/7SEGMENT-LED__HDSM531_HDSM533_SMD.wrl
+  (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/7SegmentLED_LTS6760_LTS6780.wrl
   (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/CA56-12CGKWA.wrl
   (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/CA56-12EWA.wrl
   (model ${KISYS3DMOD}/Displays_7-Segment.3dshapes/CA56-12SEKWA.wrl
@@ -2329,20 +2329,20 @@
   (model ${KISYS3DMOD}/Displays.3dshapes/LM16255.wrl
   (model ${KISYS3DMOD}/Displays.3dshapes/RC1602A.wrl
   (model ${KISYS3DMOD}/Displays.3dshapes/WC1602A.wrl
-  (model Fuse_Holders_and_Fuses.3dshapes/BladeFuse-CarType.wrl
-  (model Fuse_Holders_and_Fuses.3dshapes/BladeFuse-Mini.wrl
+  (model ${KISYS3DMOD}/Fuse_Holders_and_Fuses.3dshapes/BladeFuse-CarType.wrl
+  (model ${KISYS3DMOD}/Fuse_Holders_and_Fuses.3dshapes/BladeFuse-Mini.wrl
   (model ${KISYS3DMOD}/Fuse_Holders_and_Fuses.3dshapes/Fuseholder_Schruter_FUP_horiz_closed_5x20mm_or_6.3x32mm.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/HTFS-Series_LEM-HallEffektCurrentTransducer.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/HX02_HX03_HallEffectCurrentTransducer.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/HX04_HX05_HallEffectCurrentTransducer.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/HX06_HX10_HallEffectCurrentTransducer.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/HX15_HallEffectCurrentTransducer.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/HX20_HX25_HallEffectCurrentTransducer.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/HX50_HallEffectCurrentTransducer.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/LEM_HO-NP.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/LEM_HO-NP.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/LEM_LA25-P.wrl
-  (model Hall-Effect_Transducers_LEM.3dshapes/LEM_LV25-P.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/HTFS-Series_LEM-HallEffektCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/HX02_HX03_HallEffectCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/HX04_HX05_HallEffectCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/HX06_HX10_HallEffectCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/HX15_HallEffectCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/HX20_HX25_HallEffectCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/HX50_HallEffectCurrentTransducer.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/LEM_HO-NP.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/LEM_HO-NP.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/LEM_LA25-P.wrl
+  (model ${KISYS3DMOD}/Hall-Effect_Transducers_LEM.3dshapes/LEM_LV25-P.wrl
   (model ${KISYS3DMOD}/Housings_BGA.3dshapes/BGA-100_10x10_9.0x9.0mm_Pitch0.8mm.wrl
   (model ${KISYS3DMOD}/Housings_BGA.3dshapes/BGA-1023_32x32_33.0x33.0mm_Pitch1.0mm.wrl
   (model ${KISYS3DMOD}/Housings_BGA.3dshapes/BGA-1156_34x34_35.0x35.0mm_Pitch1.0mm.wrl
@@ -2370,8 +2370,8 @@
   (model ${KISYS3DMOD}/Housings_BGA.3dshapes/Texas_MicroStar_Junior_BGA-80_9x9_5.0x5.0mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Housings_BGA.3dshapes/UFBGA-132_7x7mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Housings_CSP.3dshapes/LFCSP-16-1EP_3x3mm_Pitch0.5mm.wrl
-  (model Housings_CSP.3dshapes/LFCSP-8-1EP_2x3mm_Pitch0.5mm.wrl
-  (model Housings_CSP.3dshapes/LFCSP-8_2x2mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_CSP.3dshapes/LFCSP-8-1EP_2x3mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_CSP.3dshapes/LFCSP-8_2x2mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Housings_CSP.3dshapes/WLCSP-16_4x4_2.17x2.32mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Housings_CSP.3dshapes/WLCSP-81_4.41x3.76mm_Pitch0.4mm.wrl
   (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/AMS_QFN-4-1EP_2x2mm_Pitch0.95mm.wrl
@@ -2419,7 +2419,7 @@
   (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_Pitch0.65mm.wrl
   (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-12-1EP_3x3mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_Pitch0.5mm.wrl
-  (model Housings_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_Pitch0.65mm.wrl
   (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_5x5mm_Pitch0.8mm.wrl
   (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/QFN-20-1EP_3x4mm_Pitch0.5mm.wrl
@@ -2841,68 +2841,68 @@
   (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/VSSOP-8_2.3x2mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/VSSOP-8_2.4x2.1mm_Pitch0.5mm.wrl
   (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Abracon_ASPI-3012S.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-1616.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-2020.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-3030.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-4040.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-5050.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-20xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-20xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-24xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-24xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-30xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-30xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-40xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-40xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-50xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-50xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-60xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-60xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-80xx.wrl
-  (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-80xx.wrl
-  (model Inductors.3dshapes/Inductor_Vishay_IHSM-3825.wrl
-  (model Inductors.3dshapes/Inductor_Vishay_IHSM-4825.wrl
-  (model Inductors.3dshapes/Inductor_Vishay_IHSM-5832.wrl
-  (model Inductors.3dshapes/Inductor_Vishay_IHSM-7382.wrl
-  (model Inductors.3dshapes/INDUCTOR_V.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-1030.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-1040.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-1050.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-1335.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-1350.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-1365.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-1890.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-2212.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-5040.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-7030.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-7040.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCI-7050.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1050.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1052.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1070.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1078.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1190.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1240.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1350.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-1390.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-7050.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_HCM-7070.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-1610.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-2010.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-2506.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-2508.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-2510.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-2512.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-3010.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-3012.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-3015.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-3020.wrl
-  (model Inductors.3dshapes/Inductor_Wurth_MAPI-4020.wrl
-  (model Inductors.3dshapes/self_cms_we-pd3.wrl
-  (model Inductors.3dshapes/self_cms_we-tpc_XL.wrl
-  (model Inductors.3dshapes/SELF-WE-PD3S.wrl
-  (model Inductors.3dshapes/SELF-WE-PD-XXL.wrl
-  (model Inductors.3dshapes/SELF-WE-TPC_M.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-1616.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-2020.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-3030.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-4040.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-5050.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-20xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-20xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-24xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-24xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-30xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-30xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-40xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-40xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-50xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-50xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-60xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-60xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-80xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-80xx.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Vishay_IHSM-3825.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Vishay_IHSM-4825.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Vishay_IHSM-5832.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Vishay_IHSM-7382.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/INDUCTOR_V.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-1030.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-1040.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-1050.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-1335.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-1350.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-1365.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-1890.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-2212.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-5040.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-7030.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-7040.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCI-7050.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1050.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1052.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1070.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1078.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1190.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1240.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1350.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-1390.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-7050.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_HCM-7070.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-1610.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-2010.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-2506.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-2508.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-2510.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-2512.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-3010.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-3012.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-3015.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-3020.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/Inductor_Wurth_MAPI-4020.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/self_cms_we-pd3.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/self_cms_we-tpc_XL.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/SELF-WE-PD3S.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/SELF-WE-PD-XXL.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/SELF-WE-TPC_M.wrl
   (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_0201.wrl
   (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_0402.wrl
   (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_0603.wrl
@@ -3050,247 +3050,247 @@
   (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD-Typ-LS.wrl
   (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD-Typ-M-Typ-S.wrl
   (model ${KISYS3DMOD}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD-Typ-M-Typ-S.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P5.08mm_Vertical_Fastron_MECC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P7.62mm_Vertical_Fastron_MECC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P7.62mm_Vertical_Fastron_MISC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P25.40mm_Horizontal_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P5.08mm_Vertical_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L13.0mm_D4.5mm_P5.08mm_Vertical_Fastron_HCCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P7.62mm_Vertical_Fastron_LACC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P25.40mm_Horizontal_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P5.08mm_Vertical_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P5.08mm_Vertical_Fastron_VHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P7.62mm_Vertical_Fastron_VHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P25.40mm_Horizontal_Fastron_XHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P5.08mm_Vertical_Fastron_XHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P7.62mm_Vertical_Fastron_XHBCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P7.62mm_Vertical.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.1mm_P25.40mm_Horizontal_Vishay_IHA-101.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P25.40mm_Horizontal_Vishay_IHA-201.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L23.4mm_D12.7mm_P25.40mm_Horizontal_Vishay_IHA-203.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L23.4mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-203.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.1mm_P30.48mm_Horizontal_Vishay_IM-10-28.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D10.0mm_P30.48mm_Horizontal_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D10.0mm_P5.08mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D10.0mm_P7.62mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D11.0mm_P30.48mm_Horizontal_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D11.0mm_P5.08mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D11.0mm_P7.62mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D9.0mm_P30.48mm_Horizontal_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D9.0mm_P5.08mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.7mm_D12.1mm_P25.40mm_Horizontal_Vishay_IHA-103.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.7mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-103.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.7mm_D14.0mm_P25.40mm_Horizontal_Vishay_IHA-104.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L26.7mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-104.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L29.9mm_D14.0mm_P25.40mm_Horizontal_Vishay_IHA-105.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L30.0mm_D8.0mm_P5.08mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P7.62mm_Horizontal_Vishay_IM-1.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P2.54mm_Vertical_Fastron_MICC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P12.70mm_Horizontal_Fastron_SMCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P2.54mm_Vertical_Fastron_SMCC.wrl
-  (model Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_muRATA_5100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L24.0mm_W16.3mm_Px10.16mm_Py20.32mm_muRATA_5200.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L30.5mm_W15.2mm_Px10.16mm_Py20.32mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L34.3mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L36.8mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L38.1mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L39.4mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L41.9mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L43.2mm_W22.9mm_Px17.78mm_Py30.48mm_Bourns_8100.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Fastron_07M.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Fastron_07P.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Neosid_SD12_style3.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P10.00mm_Neosid_SD12k_style1.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P10.00mm_Neosid_SD12_style1.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Fastron_11P.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Neosid_SD12_style2.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.0mm_P6.00mm_MuRATA_1900R.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.5mm_P7.00mm_Fastron_09HCP.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D12.5mm_P9.00mm_Fastron_09HCP.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D13.5mm_P7.00mm_Fastron_09HCP.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D14.2mm_P10.00mm_Neosid_SD14.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D16.8mm_P11.43mm_Vishay_IHB-1.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D16.8mm_P12.07mm_Vishay_IHB-1.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D18.0mm_P10.00mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D21.0mm_P14.61mm_Vishay_IHB-2.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D21.0mm_P15.00mm_Vishay_IHB-2.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D21.0mm_P15.75mm_Vishay_IHB-2.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D21.0mm_P19.00mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D24.0mm_P24.00mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D24.4mm_P22.90mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.10mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.40mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.70mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.90mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D27.9mm_P18.29mm_Vishay_IHB-3.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D27.9mm_P20.07mm_Vishay_IHB-3.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D28.0mm_P29.20mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D29.8mm_P28.30mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D29.8mm_P28.50mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D29.8mm_P28.80mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D29.8mm_P29.00mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D29.8mm_P29.30mm_muRATA_1400series.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D40.6mm_P26.16mm_Vishay_IHB-5.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D40.6mm_P27.18mm_Vishay_IHB-4.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-5.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D40.6mm_P28.70mm_Vishay_IHB-5.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D50.8mm_P34.29mm_Vishay_IHB-6.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D50.8mm_P38.86mm_Vishay_IHB-6.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D6.0mm_P4.00mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D7.0mm_P3.00mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D7.2mm_P3.00mm_MuRATA_1700.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D7.5mm_P3.50mm_Fastron_07P.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D7.5mm_P5.00mm_Fastron_07P.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D7.8mm_P5.00mm_Fastron_07HCP.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP.wrl
-  (model Inductors_THT.3dshapes/L_Radial_D9.5mm_P5.00mm_Fastron_07HVP.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.3mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.7mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.8mm.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L12.6mm_W12.6mm_Px9.52mm_Py9.52mm_Pulse_LP-37.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L16.1mm_W16.1mm_Px7.62mm_Py12.70mm_Pulse_LP-44.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8.wrl
-  (model Inductors_THT.3dshapes/L_Radial_L9.1mm_W9.1mm_Px6.35mm_Py6.35mm_Pulse_LP-25.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3_BigPads.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000series.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.60mm_Bourns_2100.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D24.1mm_P21.80mm_Bourns_2200.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D24.1mm_P23.10mm_Bourns_2200.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5.wrl
-  (model Inductors_THT.3dshapes\L_Toroid_horizontal_Diameter26mm.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D28.0mm_P25.10mm_Bourns_2200.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D28.0mm_P26.67mm_Bourns_2200.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D32.5mm_P28.90mm_Bourns_2300series.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300series.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D40.0mm_P48.26mm.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D41.9mm_P37.60mm_Vishay_TJ7.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D49.3mm_P44.60mm_Vishay_TJ8.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D5.1mm_P9.00mm_Diameter6-5mm_Amidon-T20.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D6.5mm_P10.00mm_Diameter7-5mm_Amidon-T25.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Horizontal_D9.5mm_P15.00mm_Diameter10-5mm_Amidon-T37.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L10.0mm_W5.0mm_P5.08mm.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L13.0mm_W6.5mm_P5.60mm.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L14.0mm_W5.6mm_P5.30mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L14.0mm_W6.3mm_P4.57mm_Pulse_A.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L14.7mm_W8.6mm_P5.58mm_Pulse_KM-1.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3_BigPads.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L17.8mm_W8.1mm_P7.62mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L19.1mm_W8.1mm_P7.10mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W11.4mm_P7.62mm_Pulse_KM-3.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W8.4mm_P8.38mm_Pulse_G.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W9.1mm_P8.40mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L24.6mm_W15.5mm_P11.44mm_Pulse_KM-4.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5_BigPads.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L41.9mm_W17.8mm_P12.70mm_Pulse_F.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L46.0mm_W19.1mm_P21.80mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700.wrl
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_L8-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_L8-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P5.08mm_Vertical_Fastron_MECC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P7.62mm_Vertical_Fastron_MECC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P15.24mm_Horizontal_Fastron_MISC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P5.08mm_Vertical_Fastron_MISC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L12.0mm_D5.0mm_P7.62mm_Vertical_Fastron_MISC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P25.40mm_Horizontal_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P5.08mm_Vertical_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L12.8mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L13.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_HCCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L13.0mm_D4.5mm_P5.08mm_Vertical_Fastron_HCCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L13.0mm_D4.5mm_P7.62mm_Vertical_Fastron_HCCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_LACC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P5.08mm_Vertical_Fastron_LACC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L14.0mm_D4.5mm_P7.62mm_Vertical_Fastron_LACC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P20.32mm_Horizontal_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P25.40mm_Horizontal_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P5.08mm_Vertical_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L14.5mm_D5.8mm_P7.62mm_Vertical_Fastron_HBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P20.32mm_Horizontal_Fastron_VHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P25.40mm_Horizontal_Fastron_VHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P5.08mm_Vertical_Fastron_VHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D6.3mm_P7.62mm_Vertical_Fastron_VHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P20.32mm_Horizontal_Fastron_XHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P25.40mm_Horizontal_Fastron_XHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P5.08mm_Vertical_Fastron_XHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D7.5mm_P7.62mm_Vertical_Fastron_XHBCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D9.5mm_P20.32mm_Horizontal_Vishay_IM-10-37.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L16.0mm_D9.5mm_P5.08mm_Vertical_Vishay_IM-10-37.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L17.5mm_D12.0mm_P20.32mm_Horizontal_Vishay_IM-10-46.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L17.5mm_D12.0mm_P7.62mm_Vertical_Vishay_IM-10-46.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P25.40mm_Horizontal.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P5.08mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L20.0mm_D8.0mm_P7.62mm_Vertical.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.1mm_P25.40mm_Horizontal_Vishay_IHA-101.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-101.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P25.40mm_Horizontal_Vishay_IHA-201.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L20.3mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-201.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L23.4mm_D12.7mm_P25.40mm_Horizontal_Vishay_IHA-203.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L23.4mm_D12.7mm_P7.62mm_Vertical_Vishay_IHA-203.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.1mm_P30.48mm_Horizontal_Vishay_IM-10-28.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.1mm_P5.08mm_Vertical_Vishay_IM-10-28.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P27.94mm_Horizontal_Fastron_MESC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P5.08mm_Vertical_Fastron_MESC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L24.0mm_D7.5mm_P7.62mm_Vertical_Fastron_MESC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D10.0mm_P30.48mm_Horizontal_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D10.0mm_P5.08mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D10.0mm_P7.62mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D11.0mm_P30.48mm_Horizontal_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D11.0mm_P5.08mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D11.0mm_P7.62mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D9.0mm_P30.48mm_Horizontal_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D9.0mm_P5.08mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.0mm_D9.0mm_P7.62mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.7mm_D12.1mm_P25.40mm_Horizontal_Vishay_IHA-103.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.7mm_D12.1mm_P7.62mm_Vertical_Vishay_IHA-103.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.7mm_D14.0mm_P25.40mm_Horizontal_Vishay_IHA-104.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L26.7mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-104.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L29.9mm_D14.0mm_P25.40mm_Horizontal_Vishay_IHA-105.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L29.9mm_D14.0mm_P7.62mm_Vertical_Vishay_IHA-105.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L30.0mm_D8.0mm_P5.08mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L30.0mm_D8.0mm_P7.62mm_Vertical_Fastron_77A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P10.16mm_Horizontal_Vishay_IM-1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L5.3mm_D2.2mm_P7.62mm_Horizontal_Vishay_IM-1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P10.16mm_Horizontal_Vishay_IM-2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L6.6mm_D2.7mm_P2.54mm_Vertical_Vishay_IM-2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P12.70mm_Horizontal_Fastron_MICC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P2.54mm_Vertical_Fastron_MICC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L7.0mm_D3.3mm_P5.08mm_Vertical_Fastron_MICC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P12.70mm_Horizontal_Fastron_SMCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P15.24mm_Horizontal_Fastron_SMCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P2.54mm_Vertical_Fastron_SMCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Axial_L9.5mm_D4.0mm_P5.08mm_Vertical_Fastron_SMCC.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L19.3mm_W10.8mm_Px6.35mm_Py15.24mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L21.0mm_W10.0mm_Px5.08mm_Py12.70mm_muRATA_5100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L24.0mm_W16.3mm_Px10.16mm_Py20.32mm_muRATA_5200.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L30.5mm_W15.2mm_Px10.16mm_Py20.32mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L34.3mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L36.8mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L38.1mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L39.4mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L41.9mm_W20.3mm_Px15.24mm_Py22.86mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_CommonMode_Toroid_Vertical_L43.2mm_W22.9mm_Px17.78mm_Py30.48mm_Bourns_8100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Fastron_07M.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Fastron_07P.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Neosid_SD12k_style3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D10.0mm_P5.00mm_Neosid_SD12_style3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D10.5mm_P5.00mm_Abacron_AISR-01.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.0mm_P10.00mm_Neosid_SD12k_style1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.0mm_P10.00mm_Neosid_SD12_style1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Fastron_11P.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Neosid_SD12k_style2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.0mm_P5.00mm_Neosid_SD12_style2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.0mm_P6.00mm_MuRATA_1900R.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.5mm_P7.00mm_Fastron_09HCP.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D12.5mm_P9.00mm_Fastron_09HCP.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D13.5mm_P7.00mm_Fastron_09HCP.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D14.2mm_P10.00mm_Neosid_SD14.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D16.8mm_P11.43mm_Vishay_IHB-1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D16.8mm_P12.07mm_Vishay_IHB-1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D16.8mm_P12.70mm_Vishay_IHB-1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D18.0mm_P10.00mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D21.0mm_P14.61mm_Vishay_IHB-2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D21.0mm_P15.00mm_Vishay_IHB-2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D21.0mm_P15.24mm_Vishay_IHB-2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D21.0mm_P15.75mm_Vishay_IHB-2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D21.0mm_P19.00mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D24.0mm_P24.00mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D24.4mm_P22.90mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.10mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.40mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.70mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D24.4mm_P23.90mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D27.9mm_P18.29mm_Vishay_IHB-3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D27.9mm_P19.05mm_Vishay_IHB-3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D27.9mm_P20.07mm_Vishay_IHB-3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D28.0mm_P29.20mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D29.8mm_P28.30mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D29.8mm_P28.50mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D29.8mm_P28.80mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D29.8mm_P29.00mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D29.8mm_P29.30mm_muRATA_1400series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D40.6mm_P26.16mm_Vishay_IHB-5.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D40.6mm_P27.18mm_Vishay_IHB-4.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-4.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D40.6mm_P27.94mm_Vishay_IHB-5.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D40.6mm_P28.70mm_Vishay_IHB-5.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D50.8mm_P33.27mm_Vishay_IHB-6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D50.8mm_P34.29mm_Vishay_IHB-6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D50.8mm_P35.81mm_Vishay_IHB-6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D50.8mm_P38.86mm_Vishay_IHB-6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D6.0mm_P4.00mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D7.0mm_P3.00mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D7.2mm_P3.00mm_MuRATA_1700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D7.5mm_P3.50mm_Fastron_07P.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D7.5mm_P5.00mm_Fastron_07P.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D7.8mm_P5.00mm_Fastron_07HCP.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D8.7mm_P5.00mm_Fastron_07HCP.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D9.5mm_P5.00mm_Fastron_07HVP.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L10.2mm_W10.2mm_Px7.62mm_Py7.62mm_Pulse_LP-30.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.3mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.5mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.7mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L11.5mm_W11.5mm_Px6.00mm_Py6.00mm_Neosid_NE-CPB-11EN_Drill1.8mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L12.6mm_W12.6mm_Px9.52mm_Py9.52mm_Pulse_LP-37.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L16.1mm_W16.1mm_Px7.62mm_Py12.70mm_Pulse_LP-44.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L7.5mm_W4.6mm_P5.00mm_Neosid_SD75.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_NE-CPB-07E.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L8.0mm_W8.0mm_P5.00mm_Neosid_SD8.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_L9.1mm_W9.1mm_Px6.35mm_Py6.35mm_Pulse_LP-25.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D11.2mm_P17.00mm_Diameter12-5mm_Amidon-T44.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D12.7mm_P20.00mm_Diameter14-5mm_Amidon-T50.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3_BigPads.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D16.8mm_P14.70mm_Vishay_TJ3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D17.3mm_P15.24mm_Bourns_2000series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.10mm_Bourns_2100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D21.8mm_P19.60mm_Bourns_2100.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D22.4mm_P19.80mm_Vishay_TJ4.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D24.1mm_P21.80mm_Bourns_2200.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D24.1mm_P23.10mm_Bourns_2200.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5_BigPads.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D25.4mm_P22.90mm_Vishay_TJ5.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes\L_Toroid_horizontal_Diameter26mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D28.0mm_P25.10mm_Bourns_2200.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D28.0mm_P26.67mm_Bourns_2200.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D32.5mm_P28.90mm_Bourns_2300series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D32.5mm_P30.00mm_Bourns_2300series.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D3.2mm_P6.40mm_Diameter3-5mm_Amidon-T12.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D35.1mm_P31.00mm_Vishay_TJ6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D40.0mm_P48.26mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D41.9mm_P37.60mm_Vishay_TJ7.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D4.1mm_P8.00mm_Diameter4-5mm_Amidon-T16.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D49.3mm_P44.60mm_Vishay_TJ8.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D5.1mm_P9.00mm_Diameter6-5mm_Amidon-T20.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D6.5mm_P10.00mm_Diameter7-5mm_Amidon-T25.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D69.1mm_P63.20mm_Vishay_TJ9.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D7.8mm_P13.00mm_Diameter9-5mm_Amidon-T30.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Horizontal_D9.5mm_P15.00mm_Diameter10-5mm_Amidon-T37.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L10.0mm_W5.0mm_P5.08mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L13.0mm_W6.5mm_P5.60mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L14.0mm_W5.6mm_P5.30mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L14.0mm_W6.3mm_P4.57mm_Pulse_A.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L14.7mm_W8.6mm_P5.58mm_Pulse_KM-1.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L16.0mm_W8.0mm_P7.62mm.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L16.3mm_W7.1mm_P7.11mm_Pulse_H.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L16.4mm_W7.6mm_P6.60mm_Vishay_TJ3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3_BigPads.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L16.8mm_W9.2mm_P7.10mm_Vishay_TJ3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L17.8mm_W8.1mm_P7.62mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L17.8mm_W9.7mm_P7.11mm_Pulse_B.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L19.1mm_W8.1mm_P7.10mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W11.4mm_P7.62mm_Pulse_KM-3.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W8.4mm_P8.38mm_Pulse_G.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W9.1mm_P8.40mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L21.6mm_W9.5mm_P7.11mm_Pulse_C.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L22.4mm_W10.2mm_P7.90mm_Vishay_TJ4.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L24.6mm_W15.5mm_P11.44mm_Pulse_KM-4.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5_BigPads.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L28.6mm_W14.3mm_P11.43mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L31.8mm_W15.9mm_P13.50mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L33.0mm_W17.8mm_P12.70mm_Pulse_KM-5.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L35.1mm_W21.1mm_P18.50mm_Vishay_TJ6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L35.6mm_W17.8mm_P12.70mm_Pulse_E.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L41.9mm_W17.8mm_P12.70mm_Pulse_F.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L41.9mm_W19.1mm_P15.80mm_Vishay_TJ7.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L46.0mm_W19.1mm_P21.80mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_L8-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_L8-Outline_Numbers.wrl
   (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-DirectFET_ME.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MN-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MN-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MP-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MP-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MT-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MT-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MX-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MX-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Numnbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_S1-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_S1-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_SH-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_SH-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_SJ-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_SJ-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Names.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Numbers.wrl
-  (model IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Numbers_SquareHeatSink.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MN-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MN-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MP-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MP-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MT-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MT-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MX-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MX-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Numnbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_S1-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_S1-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_SH-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_SH-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_SJ-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_SJ-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Numbers.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Numbers_SquareHeatSink.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_0402.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_0603.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_0603.wrl
@@ -3359,7 +3359,7 @@
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_miniPLCC_2315.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_miniPLCC_2315.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_Oval_W5.2mm_H3.8mm.wrl
-  (model LEDs.3dshapes\LED_PLCC_2835_Handsoldering.wrl
+  (model ${KISYS3DMOD}/LEDs.3dshapes\LED_PLCC_2835_Handsoldering.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_PLCC_2835.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_PLCC-2.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_Rectangular_W3.0mm_H2.0mm.wrl
@@ -3385,26 +3385,26 @@
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl
   (model ${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812-PLCC6.wrl
-  (model Measurement_Points.3dshapes/Test_Point.wrl
+  (model ${KISYS3DMOD}/Measurement_Points.3dshapes/Test_Point.wrl
   (model ${KISYS3DMOD}/Modules.3dshapes/ST_Morpho_Connector_144_STLink.wrl
   (model ${KISYS3DMOD}/Modules.3dshapes/ST_Morpho_Connector_144_STLink.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_1-1_P1200_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P1165_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P2781_ETAL_HandSoldering.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P2781_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3000_ETAL_HandSoldering.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3000_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3181_ETAL_HandSoldering.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3181_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3188_ETAL_HandSoldering.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3188_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3191_ETAL_HandSoldering.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3191_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3324_ETAL.wrl
-  (model NF-Transformers_ETAL.3dshapes/NF-Transformer_P3356_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_1-1_P1200_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P1165_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P2781_ETAL_HandSoldering.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P2781_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3000_ETAL_HandSoldering.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3000_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3181_ETAL_HandSoldering.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3181_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3188_ETAL_HandSoldering.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3188_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3191_ETAL_HandSoldering.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3191_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3324_ETAL.wrl
+  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3356_ETAL.wrl
   (model ${KISYS3DMOD}/Opto-Devices.3dshapes/AmbientLightSensor_AMS_TSL2550_SMD.wrl
   (model ${KISYS3DMOD}/Opto-Devices.3dshapes/IRReceiver_Vishay_MINICAST-3pin.wrl
-  (model Opto-Devices.3dshapes/Optoisolator_NSL-32.wrl (at (xyz 0.20 0.08 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Opto-Devices.3dshapes/Optoisolator_NSL-32.wrl (at (xyz 0.20 0.08 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KISYS3DMOD}/Opto-Devices.3dshapes/Optoisolator_VTL5C.wrl
   (model ${KISYS3DMOD}/Opto-Devices.3dshapes/Optoisolator_VTL5Cx2.wrl
   (model ${KISYS3DMOD}/Opto-Devices.3dshapes/PhotoInterrupter_Kodenshi_LG206D.wrl
@@ -3456,9 +3456,9 @@
   (model ${KISYS3DMOD}/Oscillators.3dshapes/Oscillator_SMD_TCXO_G158.wrl
   (model ${KISYS3DMOD}/Oscillators.3dshapes/Oscillator_SMD_TXC_7C-4pin_5.0x3.2mm_HandSoldering.wrl
   (model ${KISYS3DMOD}/Oscillators.3dshapes/Oscillator_SMD_TXC_7C-4pin_5.0x3.2mm.wrl
-  (model PFF_PSF_PSS_Leadforms.3dshapes/PFF_Leadform_5pins.wrl
-  (model PFF_PSF_PSS_Leadforms.3dshapes/PSF_Leadform_5pins.wrl
-  (model PFF_PSF_PSS_Leadforms.3dshapes/PSS_Leadform_5pins.wrl
+  (model ${KISYS3DMOD}/PFF_PSF_PSS_Leadforms.3dshapes/PFF_Leadform_5pins.wrl
+  (model ${KISYS3DMOD}/PFF_PSF_PSS_Leadforms.3dshapes/PSF_Leadform_5pins.wrl
+  (model ${KISYS3DMOD}/PFF_PSF_PSS_Leadforms.3dshapes/PSS_Leadform_5pins.wrl
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Angled_1x01_Pitch1.00mm.wrl
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Angled_1x01_Pitch1.27mm.wrl
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Angled_1x01_Pitch2.00mm.wrl
@@ -4571,125 +4571,125 @@
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_2x40_Pitch2.00mm_SMD.wrl
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_2x40_Pitch2.54mm.wrl
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_2x40_Pitch2.54mm_SMD.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK097_Double_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK097_Single_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK09K_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK09K_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Double_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Double_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Single_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Sleve_Single_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK09Y_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK163_Double_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Alps_RK163_Single_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Bourns_PRS11S_Horizontal.wrl (at (xyz -0.65 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Bourns_PTV09A-1_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Bourns_PTV09A-2_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Omeg_PC16PU_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Omeg_PC16PU_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Omeg_PC16PU_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Double_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Single_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Single_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Single_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_PC-16SV_Single_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Triple_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_T16H_Double_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_T16H_Single_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Piher_T16L_Single_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14h2.5_Vertical_Px2.5mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14h4_Vertical_Px4.0mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14h5_Vertical_Px5.0mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14v_Horizontal_Px15.0mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14v_Horizontal_Px15.0mm_Py10.0mm_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14VSMD_Horizontal_Px13.0mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14VSMD_Horizontal_Px13.0mm_Py10.0mm_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6h_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6v_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6v_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6VSMD_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6VSMD_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h2.5_Vertical_Px2.5mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h3.8_Vertical_Px3.8mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h5_Vertical_Px5.0mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9v_Horizontal_Px10.0mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9v_Horizontal_Px10.0mm_Py5.0mm_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9VSMD_Horizontal_Px9.2mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9VSMD_Horizontal_Px9.2mm_Py5.0mm_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3005.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3006P.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3006W.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3006Y.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3009W.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214G.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214J.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214W.wrl (at (xyz 0.00 0.02 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224G.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224J.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224W.wrl (at (xyz 0.00 0.02 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266P.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266W.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266X.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266Y.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266Z.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3269P.wrl (at (xyz 0.04 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3269W.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3269X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296P.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296W.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296X.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296Y.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296Z.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299P.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299W.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299X.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299Y.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299Z.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339H_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339P_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339S_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339W_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK097_Double_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK097_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK09K_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK09K_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Double_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Double_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK09L_Sleve_Single_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK09Y_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK163_Double_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Alps_RK163_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Bourns_PRS11S_Horizontal.wrl (at (xyz -0.65 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Bourns_PTV09A-1_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Bourns_PTV09A-2_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Omeg_PC16PU_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Omeg_PC16PU_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Omeg_PC16PU_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Double_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Single_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Single_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_PC-16SV_Single_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_PC-16_Triple_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_T16H_Double_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_T16H_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Piher_T16L_Single_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14h2.5_Vertical_Px2.5mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14h4_Vertical_Px4.0mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14h5_Vertical_Px5.0mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14v_Horizontal_Px15.0mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14v_Horizontal_Px15.0mm_Py10.0mm_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14VSMD_Horizontal_Px13.0mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14VSMD_Horizontal_Px13.0mm_Py10.0mm_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6h_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6v_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6v_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6VSMD_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA6VSMD_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h2.5_Vertical_Px2.5mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h3.8_Vertical_Px3.8mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h5_Vertical_Px5.0mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9v_Horizontal_Px10.0mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9v_Horizontal_Px10.0mm_Py5.0mm_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9VSMD_Horizontal_Px9.2mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9VSMD_Horizontal_Px9.2mm_Py5.0mm_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3005.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3006P.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3006W.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3006Y.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3009W.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214G.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214J.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214W.wrl (at (xyz 0.00 0.02 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3214X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224G.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224J.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224W.wrl (at (xyz 0.00 0.02 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266P.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266W.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266X.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266Y.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3266Z.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3269P.wrl (at (xyz 0.04 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3269W.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3269X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296P.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296W.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296X.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296Y.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296Z.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299P.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299W.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299X.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299Y.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3299Z.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339H_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339P_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339S_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339W_Vertical.wrl
   (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_PV36W.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h2.5_Vertical_Px2.5mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h3.8_Vertical_Px3.8mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h5_Vertical_Px5.0mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10v10_Horizontal_Px10.0mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10v10_Horizontal_Px10.0mm_Py5.0mm_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10v5_Horizontal_Px5.0mm_Py5.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15B_Vertical_Px4.0mm_Py8.8mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15h2.5_Vertical_Px2.5mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15h5_Vertical_Px5.0mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15hc5_Vertical_Px5.0mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v12.5_Horizontal_Px12.5mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v12.5_Horizontal_Px12.5mm_Py10.0mm_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v15_Horizontal_Px15.0mm_Py10.0mm.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v15_Horizontal_Px15.0mm_Py10.0mm_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-6h_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-6v_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-6v_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Suntan_TSR-3386C_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Suntan_TSR-3386H_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Suntan_TSR-3386P_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_43.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T73XW_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T73XX_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T73YP_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T7YA_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_TS53YJ.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_TS53YL.wrl (at (xyz 0.04 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_Triwood_RM-065.wrl (at (xyz 0 0 0)) (scale (xyz 4 4 4)) (rotate (xyz 0 0 0))))
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Double_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Single_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Single_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Single_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148A_149A_Double_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148A_149A_Single_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GH_249GH_Vertical.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Horizontal.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Horizontal_MountLS.wrl
-  (model Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h2.5_Vertical_Px2.5mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h3.8_Vertical_Px3.8mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h5_Vertical_Px5.0mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10v10_Horizontal_Px10.0mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10v10_Horizontal_Px10.0mm_Py5.0mm_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10v5_Horizontal_Px5.0mm_Py5.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15B_Vertical_Px4.0mm_Py8.8mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15h2.5_Vertical_Px2.5mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15h5_Vertical_Px5.0mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15hc5_Vertical_Px5.0mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v12.5_Horizontal_Px12.5mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v12.5_Horizontal_Px12.5mm_Py10.0mm_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v15_Horizontal_Px15.0mm_Py10.0mm.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-15v15_Horizontal_Px15.0mm_Py10.0mm_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-6h_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-6v_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-6v_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Suntan_TSR-3386C_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Suntan_TSR-3386H_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Suntan_TSR-3386P_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_43.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T73XW_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T73XX_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T73YP_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_T7YA_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_TS53YJ.wrl (at (xyz 0.03 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Vishay_TS53YL.wrl (at (xyz 0.04 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Triwood_RM-065.wrl (at (xyz 0 0 0)) (scale (xyz 4 4 4)) (rotate (xyz 0 0 0))))
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Double_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Single_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Single_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148_149_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148A_149A_Double_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_148A_149A_Single_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GH_249GH_Vertical.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Horizontal.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Horizontal_MountLS.wrl
+  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Vertical.wrl
   (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_1-Form-A_Schrack-RYII_RM5mm.wrl
   (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_1-Form-B_Schrack-RYII_RM5mm.wrl
   (model ${KISYS3DMOD}/Relays_THT.3dshapes/Relay_1-Form-C_Schrack-RYII_RM3.2mm.wrl
@@ -4890,59 +4890,59 @@
   (model ${KISYS3DMOD}/RF_Modules.3dshapes/RN42N.wrl
   (model ${KISYS3DMOD}/RF_Modules.3dshapes/ST_SPBTLE.wrl
   (model ${KISYS3DMOD}/RF_Modules.3dshapes/Telit_xL865.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36103205_20x20mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36103255_25x25mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36103305_30x30mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36103505_50x50mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36103605_60x60mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36503205_20x20mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36503255_25x25mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36503305_30x30mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36503505_50x50mm.wrl
-  (model Shielding_Cabinets.3dshapes/Würth_36503605_60x60mm.wrl
-  (model SMD_Packages.3dshapes/BGA-256.wrl
-  (model SMD_Packages.3dshapes/BGA-256_pitch1mm_dia0.4mm.wrl
-  (model SMD_Packages.3dshapes/BGA-352.wrl
-  (model SMD_Packages.3dshapes/BGA-48.wrl
-  (model SMD_Packages.3dshapes/BGA-64-0.8mm.wrl
-  (model SMD_Packages.3dshapes/Conn-20.wrl
-  (model SMD_Packages.3dshapes/Conn-3_Inv.wrl
-  (model SMD_Packages.3dshapes/Conn-3.wrl
-  (model SMD_Packages.3dshapes/Conn-5_Inv.wrl
-  (model SMD_Packages.3dshapes/Conn-5.wrl
-  (model SMD_Packages.3dshapes/DIP-8_SMD.wrl
-  (model SMD_Packages.3dshapes/Fuse_SMD.wrl
-  (model SMD_Packages.3dshapes/LFCSP-40-1EP.wrl
-  (model SMD_Packages.3dshapes/powermite3.wrl
-  (model SMD_Packages.3dshapes/PQFP-160.wrl
-  (model SMD_Packages.3dshapes/PQFP-208.wrl
-  (model SMD_Packages.3dshapes/SMD-1206_Pol.wrl
-  (model SMD_Packages.3dshapes/SMD-1210_Pol.wrl
-  (model SMD_Packages.3dshapes/SMD-2010_Pol.wrl
-  (model SMD_Packages.3dshapes/SMD-2112_Pol.wrl
-  (model SMD_Packages.3dshapes/SMD-2512_Pol.wrl
-  (model SMD_Packages.3dshapes/SMD-4032.wrl
-  (model SMD_Packages.3dshapes/SO-16-L.wrl
-  (model SMD_Packages.3dshapes/SO-16-N.wrl
-  (model SMD_Packages.3dshapes/SO-16-W.wrl
-  (model SMD_Packages.3dshapes/SOIC-14_N.wrl
-  (model SMD_Packages.3dshapes/SOIC-24.wrl
-  (model SMD_Packages.3dshapes/SOIC-8-N.wrl
-  (model SMD_Packages.3dshapes/SOJ-28-W.wrl
-  (model SMD_Packages.3dshapes/SOJ-32.wrl
-  (model SMD_Packages.3dshapes/SOJ-32-W.wrl
-  (model SMD_Packages.3dshapes/SOJ-40.wrl
-  (model SMD_Packages.3dshapes/SOJ-42.wrl
-  (model SMD_Packages.3dshapes/SSOP-14.wrl
-  (model SMD_Packages.3dshapes/SSOP-20.wrl
-  (model SMD_Packages.3dshapes/VLM0806_Housing_Handsoldering.wrl
-  (model SMD_Packages.3dshapes/VLM0806_Housing.wrl
-  (model Sockets.3dshapes/40tex600.wrl
-  (model Sockets.3dshapes/40tex-Ell600.wrl
-  (model Sockets.3dshapes/PGA120.wrl
-  (model Sockets.3dshapes/PLCC68.wrl
-  (model Sockets.3dshapes/PLCC84.wrl
-  (model Sockets.3dshapes/SUPPORT_SO8_ZIF.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36103205_20x20mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36103255_25x25mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36103305_30x30mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36103505_50x50mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36103605_60x60mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36503205_20x20mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36503255_25x25mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36503305_30x30mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36503505_50x50mm.wrl
+  (model ${KISYS3DMOD}/Shielding_Cabinets.3dshapes/Würth_36503605_60x60mm.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/BGA-256.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/BGA-256_pitch1mm_dia0.4mm.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/BGA-352.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/BGA-48.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/BGA-64-0.8mm.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/Conn-20.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/Conn-3_Inv.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/Conn-3.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/Conn-5_Inv.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/Conn-5.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/DIP-8_SMD.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/Fuse_SMD.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/LFCSP-40-1EP.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/powermite3.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/PQFP-160.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/PQFP-208.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SMD-1206_Pol.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SMD-1210_Pol.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SMD-2010_Pol.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SMD-2112_Pol.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SMD-2512_Pol.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SMD-4032.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SO-16-L.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SO-16-N.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SO-16-W.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOIC-14_N.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOIC-24.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOIC-8-N.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOJ-28-W.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOJ-32.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOJ-32-W.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOJ-40.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOJ-42.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SSOP-14.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SSOP-20.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/VLM0806_Housing_Handsoldering.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/VLM0806_Housing.wrl
+  (model ${KISYS3DMOD}/Sockets.3dshapes/40tex600.wrl
+  (model ${KISYS3DMOD}/Sockets.3dshapes/40tex-Ell600.wrl
+  (model ${KISYS3DMOD}/Sockets.3dshapes/PGA120.wrl
+  (model ${KISYS3DMOD}/Sockets.3dshapes/PLCC68.wrl
+  (model ${KISYS3DMOD}/Sockets.3dshapes/PLCC84.wrl
+  (model ${KISYS3DMOD}/Sockets.3dshapes/SUPPORT_SO8_ZIF.wrl
   (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Angled_1x01_Pitch2.00mm.wrl
   (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Angled_1x01_Pitch2.54mm.wrl
   (model ${KISYS3DMOD}/Socket_Strips.3dshapes/Socket_Strip_Angled_1x02_Pitch2.00mm.wrl
@@ -5578,8 +5578,8 @@
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/Multiwatt-15_Vertical_StaggeredType2.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/SIPAK-1EP_Horizontal.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/SIPAK_Vertical.wrl
-  (model TO_SOT_Packages_THT.3dshapes/TO-100-10.wrl
-  (model TO_SOT_Packages_THT.3dshapes/TO-100-10_Window.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-100-10.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-100-10_Window.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-11-2.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-11-2_Window.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-11-3.wrl
@@ -5714,8 +5714,8 @@
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-5-8_Window.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-72-4.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-72-4_Window.wrl
-  (model TO_SOT_Packages_THT.3dshapes/TO-75-6.wrl
-  (model TO_SOT_Packages_THT.3dshapes/TO-75-6_Window.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-75-6.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-75-6_Window.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-78-10.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-78-10_Window.wrl
   (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-78-6.wrl
@@ -5811,10 +5811,10 @@
   (model ${KISYS3DMOD}/Transformers_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44.wrl
   (model ${KISYS3DMOD}/Transformers_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50.wrl
   (model ${KISYS3DMOD}/Transformers_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30.wrl
-  (model Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-I_BigPads.wrl
-  (model Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_BigPads.wrl
-  (model Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_SmallPads.wrl
-  (model Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-I_SmallPads.wrl
+  (model ${KISYS3DMOD}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-I_BigPads.wrl
+  (model ${KISYS3DMOD}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_BigPads.wrl
+  (model ${KISYS3DMOD}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_SmallPads.wrl
+  (model ${KISYS3DMOD}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-I_SmallPads.wrl
   (model ${KISYS3DMOD}/Valves.3dshapes/VALVE-ECC-83-1.wrl
   (model ${KISYS3DMOD}/Valves.3dshapes/VALVE-ECC-83-2.wrl
   (model ${KISYS3DMOD}/Valves.3dshapes/VALVE-EURO.wrl

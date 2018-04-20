@@ -16,7 +16,7 @@
   (pad D smd rect (at -2.4511 0.83058) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
   (pad D smd rect (at 2.4511 -0.83058) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
   (pad D smd rect (at 2.4511 0.83058) (size 0.89916 1.24968) (layers F.Cu F.Paste F.Mask))
-  (model IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Names.wrl
+  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Names.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

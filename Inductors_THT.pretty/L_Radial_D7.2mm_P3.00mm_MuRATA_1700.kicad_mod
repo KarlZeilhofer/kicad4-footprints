@@ -15,7 +15,7 @@
   (fp_line (start 5.45 -3.95) (end -2.45 -3.95) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Radial_D7.2mm_P3.00mm_MuRATA_1700.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D7.2mm_P3.00mm_MuRATA_1700.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

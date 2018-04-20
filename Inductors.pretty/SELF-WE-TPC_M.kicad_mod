@@ -19,7 +19,7 @@
   (fp_line (start -1.778 -2.413) (end 0 -2.413) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -2.159 0) (size 1.50114 5.30098) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.159 0) (size 1.50114 5.30098) (layers F.Cu F.Paste F.Mask))
-  (model Inductors.3dshapes/SELF-WE-TPC_M.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/SELF-WE-TPC_M.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.4 0.4 0.1))
     (rotate (xyz 0 0 0))

@@ -20,7 +20,7 @@
   (fp_line (start -4.28244 2.10566) (end -1.99644 2.10566) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -2.99974 0) (size 1.99898 2.99974) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.99974 0) (size 1.99898 2.99974) (layers F.Cu F.Paste F.Mask))
-  (model SMD_Packages.3dshapes/SMD-2512_Pol.wrl
+  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SMD-2512_Pol.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.35 0.35 0.35))
     (rotate (xyz 0 0 0))

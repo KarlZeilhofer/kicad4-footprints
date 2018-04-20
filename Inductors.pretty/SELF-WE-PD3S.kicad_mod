@@ -20,7 +20,7 @@
   (fp_circle (center 0 0) (end 0 2.54) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -3.048 0) (size 1.99898 1.99898) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 3.048 0) (size 1.99898 1.99898) (layers F.Cu F.Paste F.Mask))
-  (model Inductors.3dshapes/SELF-WE-PD3S.wrl
+  (model ${KISYS3DMOD}/Inductors.3dshapes/SELF-WE-PD3S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.53 0.53 0.53))
     (rotate (xyz 0 0 0))

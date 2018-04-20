@@ -17,7 +17,7 @@
   (fp_line (start 43.9 -25.75) (end -7.55 -25.75) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 5.8 5.8) (drill 2.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 36.32 0) (size 5.8 5.8) (drill 2.9) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6.wrl
+  (model ${KISYS3DMOD}/Inductors_THT.3dshapes/L_Radial_D50.8mm_P36.32mm_Vishay_IHB-6.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))
