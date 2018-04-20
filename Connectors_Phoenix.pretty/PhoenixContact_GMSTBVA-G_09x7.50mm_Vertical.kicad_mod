@@ -105,7 +105,7 @@
   (fp_text user %R (at 30 -3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connectors_Phoenix.3dshapes/PhoenixContact_GMSTBVA-G_09x7.50mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Phoenix.3dshapes/PhoenixContact_GMSTBVA-G_09x7.50mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

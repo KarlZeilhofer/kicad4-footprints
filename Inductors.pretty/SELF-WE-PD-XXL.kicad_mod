@@ -26,7 +26,7 @@
   )
   (pad 1 smd rect (at -5.00126 0) (size 2.90068 5.40004) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 5.00126 0) (size 2.90068 5.40004) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Inductors.3dshapes/SELF-WE-PD-XXL.wrl
+  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/SELF-WE-PD-XXL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

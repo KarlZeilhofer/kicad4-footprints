@@ -364,7 +364,7 @@
   (pad K26 smd circle (at 15.875 -4.445) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
   (pad J26 smd circle (at 15.875 -5.715) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
   (pad H26 smd circle (at 15.875 -6.985) (size 0.762 0.762) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/BGA-352.wrl
+  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/BGA-352.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1.7 1.7 0.8))
     (rotate (xyz 0 0 0))

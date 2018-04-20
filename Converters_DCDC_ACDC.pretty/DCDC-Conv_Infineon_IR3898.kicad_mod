@@ -118,7 +118,7 @@
   (pad "" smd rect (at -1.75 -1.015 180) (size 0.27 1.89) (layers F.Paste))
   (pad "" smd rect (at -0.1 1.335) (size 2.19 1.2) (layers F.Mask)
     (solder_mask_margin 0.0001) (solder_paste_margin_ratio -0.1))
-  (model ${KISYS3DMOD}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_Infineon_IR3898.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_Infineon_IR3898.wrl
     (at (xyz -0.07875 -0.09845 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

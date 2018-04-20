@@ -51,7 +51,7 @@
   (fp_line (start 22.6568 -6.858) (end 25.3419 -9.4288) (layer F.Fab) (width 0.10))
   (pad 2 thru_hole circle (at 20.49 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Battery_Holders.3dshapes/Keystone_106_1x20mm-CoinCell.wrl
+  (model ${KICAD4_3D_DIR}/Battery_Holders.3dshapes/Keystone_106_1x20mm-CoinCell.wrl
     (at (xyz 0.6 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

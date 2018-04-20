@@ -12,7 +12,7 @@
   (pad 2 thru_hole oval (at 0 -2) (size 1.4 2.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 1 thru_hole oval (at -2 0 90) (size 1.4 2.5) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 2 0 90) (size 1.4 2.5) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_BigPads.wrl
+  (model ${KICAD4_3D_DIR}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_BigPads.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

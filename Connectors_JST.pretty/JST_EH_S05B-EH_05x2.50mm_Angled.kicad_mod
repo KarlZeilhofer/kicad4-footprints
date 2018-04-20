@@ -74,7 +74,7 @@
   (pad 3 thru_hole circle (at 5 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 7.5 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 10 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_EH_S05B-EH_05x2.50mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_EH_S05B-EH_05x2.50mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

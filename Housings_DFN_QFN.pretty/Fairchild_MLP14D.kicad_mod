@@ -49,7 +49,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 15 smd rect (at 0.3625 -0.3625) (size 0.725 0.725) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/Fairchild_MLP14D.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Fairchild_MLP14D.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

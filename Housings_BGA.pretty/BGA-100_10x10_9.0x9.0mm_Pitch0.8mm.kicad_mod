@@ -126,7 +126,7 @@
   (pad C1 smd circle (at -3.6 -2) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad B1 smd circle (at -3.6 -2.8) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad A1 smd circle (at -3.6 -3.6) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_BGA.3dshapes/BGA-100_10x10_9.0x9.0mm_Pitch0.8mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/BGA-100_10x10_9.0x9.0mm_Pitch0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

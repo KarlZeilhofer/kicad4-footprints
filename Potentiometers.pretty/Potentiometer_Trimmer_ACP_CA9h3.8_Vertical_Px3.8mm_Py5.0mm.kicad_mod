@@ -34,7 +34,7 @@
   (pad 3 thru_hole circle (at 0 5) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 3.8 2.5) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h3.8_Vertical_Px3.8mm_Py5.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA9h3.8_Vertical_Px3.8mm_Py5.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

@@ -86,7 +86,7 @@
   (fp_text user %R (at 1.27 17.78 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model ${KISYS3DMOD}/Connectors_Samtec.3dshapes/SDL-130-X-XX_2x15.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Samtec.3dshapes/SDL-130-X-XX_2x15.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

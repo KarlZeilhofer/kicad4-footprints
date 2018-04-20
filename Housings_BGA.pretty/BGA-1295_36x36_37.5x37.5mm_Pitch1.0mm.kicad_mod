@@ -1324,7 +1324,7 @@
   (pad AT34 smd circle (at 15.5 17.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AT35 smd circle (at 16.5 17.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
   (pad AT36 smd circle (at 17.5 17.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_BGA.3dshapes/BGA-1295_36x36_37.5x37.5mm_Pitch1.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/BGA-1295_36x36_37.5x37.5mm_Pitch1.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

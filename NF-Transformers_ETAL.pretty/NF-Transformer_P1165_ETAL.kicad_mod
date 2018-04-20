@@ -218,7 +218,7 @@
   (pad 4 thru_hole circle (at -5.00126 5.00126) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 5.00126 -5.00126) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 5.00126 5.00126) (size 1.524 1.524) (drill 0.8128) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P1165_ETAL.wrl
+  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P1165_ETAL.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

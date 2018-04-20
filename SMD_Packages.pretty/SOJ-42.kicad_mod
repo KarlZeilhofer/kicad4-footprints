@@ -56,7 +56,7 @@
   (pad 19 smd rect (at 10.16 5.08) (size 0.508 2.032) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 11.43 5.08) (size 0.508 2.032) (layers F.Cu F.Paste F.Mask))
   (pad 21 smd rect (at 12.7 5.08) (size 0.508 2.032) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/SMD_Packages.3dshapes/SOJ-42.wrl
+  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOJ-42.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.5 0.6 0.5))
     (rotate (xyz 0 0 0))

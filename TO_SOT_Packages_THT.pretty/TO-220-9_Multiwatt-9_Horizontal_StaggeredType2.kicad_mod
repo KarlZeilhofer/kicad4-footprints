@@ -55,7 +55,7 @@
   (pad 7 thru_hole oval (at 5.82 0) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 6.79 3.8) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 7.76 0) (size 1.5 1.5) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Multiwatt-9_Horizontal_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Multiwatt-9_Horizontal_StaggeredType2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

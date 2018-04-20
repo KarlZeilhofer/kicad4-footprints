@@ -30,4 +30,4 @@
   (pad 2 thru_hole oval (at 0.00 -3.81) (size 2.29 1.57) (drill 0.81) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole oval (at 10.16 -3.17) (size 2.29 1.57) (drill 0.81) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at 10.16 -0.64) (size 2.29 1.57) (drill 0.81) (layers *.Cu *.Mask F.SilkS))
-  (model ${KISYS3DMOD}/Opto-Devices.3dshapes/Optoisolator_NSL-32.wrl (at (xyz 0.20 0.08 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/Optoisolator_NSL-32.wrl (at (xyz 0.20 0.08 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))

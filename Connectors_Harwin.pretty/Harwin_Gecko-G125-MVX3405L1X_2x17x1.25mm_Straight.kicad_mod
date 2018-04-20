@@ -90,7 +90,7 @@
   (pad 34 thru_hole circle (at 20 -1.25) (size 0.95 0.95) (drill 0.55) (layers *.Cu *.Mask))
   (pad "" np_thru_hole oval (at -1.25 -0.625) (size 1.1 2) (drill oval 1 1.9) (layers *.Cu *.Mask))
   (pad "" np_thru_hole oval (at 21.25 -0.625) (size 1.1 2) (drill oval 1 1.9) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L1X_2x17x1.25mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-MVX3405L1X_2x17x1.25mm_Straight.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

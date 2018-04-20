@@ -76,7 +76,7 @@
   (fp_line (start 6.20014 -6.20014) (end 6.20014 -3.29946) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -4.95046 0) (size 2.90068 5.40004) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.95046 0) (size 2.90068 5.40004) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h6mm.wrl
+  (model ${KICAD4_3D_DIR}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h6mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 4 4 4))
     (rotate (xyz 0 0 0))

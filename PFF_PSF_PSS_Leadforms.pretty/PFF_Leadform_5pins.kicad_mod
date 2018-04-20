@@ -424,7 +424,7 @@
   (pad 2 thru_hole circle (at 0 10.70102) (size 1.50114 1.50114) (drill 0.89916) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 1.91008 10.70102) (size 1.50114 1.50114) (drill 0.89916) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -1.91008 10.70102) (size 1.50114 1.50114) (drill 0.89916) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/PFF_PSF_PSS_Leadforms.3dshapes/PFF_Leadform_5pins.wrl
+  (model ${KICAD4_3D_DIR}/PFF_PSF_PSS_Leadforms.3dshapes/PFF_Leadform_5pins.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

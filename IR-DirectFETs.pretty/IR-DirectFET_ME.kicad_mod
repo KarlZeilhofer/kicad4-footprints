@@ -58,7 +58,7 @@
     (solder_paste_margin_ratio -0.1))
   (pad 3 smd rect (at 1.375 0.85) (size 1 1.35) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.1))
-  (model ${KISYS3DMOD}/IR-DirectFETs.3dshapes/IR-DirectFET_ME.wrl
+  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-DirectFET_ME.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

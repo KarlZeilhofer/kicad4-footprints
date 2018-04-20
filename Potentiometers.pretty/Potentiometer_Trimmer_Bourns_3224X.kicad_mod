@@ -31,4 +31,4 @@
   (pad 1 smd rect (at 1.15 -2.55) (size 1.30 1.90) (layers F.Cu F.Mask))
   (pad 2 smd rect (at 0.00 2.55) (size 2 1.90) (layers F.Cu F.Mask))
   (pad 3 smd rect (at -1.15 -2.55) (size 1.30 1.90) (layers F.Cu F.Mask))
-  (model ${KISYS3DMOD}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3224X.wrl (at (xyz 0.00 0.03 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
