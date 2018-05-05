@@ -3,7 +3,12 @@ kicad4-footprints
 
 This library provides a workaround to an incompatibility issue between KiCad 4 and KiCad 5, discussed here: https://github.com/KiCad/kicad-footprints/issues/503
 
-The origin of this repository is the zip-download for KiCad V4.0.7 library from http://downloads.kicad-pcb.org/libraries/kicad-footprints-4.0.7.tar.gz (20th of April, 2018). 
+The origin of this repository all the Git repos for KiCad V4 library downloaded with 
+```
+kicad-library-utils./download_pretty_libs.py -p ../kicad4-footprints/ 
+```
+on 3rd of May, 2018. They are deprecated, but can be useful with existing projects. 
+
 
 ## Do you need this?
 You only want to use this library, if you want to port KiCad 4 projects to KiCad 5, and still want to use the footprints and according 3D models from lib v4.
@@ -33,6 +38,7 @@ Please note, that you should add these environment variables to both of your KiC
 
 ## Consequences
 * Every existing project, that has been using the libs v4 must reload it's footprints, so the paths to the 3D models get updated. 
+  I recommend to use the kicad-models-updater: https://github.com/KarlZeilhofer/kicad-models-updater
 * If you have your own footprint library, which uses KiCad's 3D models (version 4), you have to replace the KISYS3DMOD there too. You can use https://github.com/jlevy/repren to do this:
   `repren --from " \(model ([A-Za-z0-9])" --to " (model \${KISYS3DMOD}/\1" .`
   `repren --from KISYS3DMOD --to KICAD4_3D_DIR .`
