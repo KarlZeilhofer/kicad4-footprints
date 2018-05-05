@@ -11,6 +11,29 @@
   (model ${KICAD4_3D_DIR}/Battery_Holders.3dshapes/Keystone_3008_1x2450-CoinCell.wrl
   (model ${KICAD4_3D_DIR}/Battery_Holders.3dshapes/Keystone_3009_1x2450-CoinCell.wrl
   (model ${KICAD4_3D_DIR}/Battery_Holders.3dshapes/Keystone_3034_1x20mm-CoinCell.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.00u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.00u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.25u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.25u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.50u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.50u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.75u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_1.75u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.00u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.00u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.00u_Vertical_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.00u_Vertical_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.25u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.25u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.75u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_2.75u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_6.25u_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_6.25u_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_ISOEnter_PCB.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_Keyboard.3dshapes/SW_Cherry_MX1A_ISOEnter_Plate.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/Nidec_Copal_SH-7010A.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/Nidec_Copal_SH-7010B.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/Nidec_Copal_SH-7040B.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/Panasonic_EVQPUJ_EVQPUA.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/Panasonic_EVQPUK_EVQPUB.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/Panasonic_EVQPUL_EVQPUC.wrl
@@ -18,37 +41,38 @@
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x10_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x10_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x10_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x10_W8.61mm_Slide_LowProfile.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x11_W8.61mm_Slide_LowProfile.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x12_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x10_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x11_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x12_W8.61mm_Slide_LowProfile.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x1_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x1_W8.61mm_Slide_LowProfile.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x2_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x2_W8.61mm_Slide_LowProfile.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x3_W5.9mm_Slide_Copal_CVS.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x3_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x3_W8.61mm_Slide_LowProfile.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x4_W8.61mm_Slide_LowProfile.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x5_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x4_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x5_W8.61mm_Slide_LowProfile.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x6_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x6_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x6_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x6_W8.61mm_Slide_LowProfile.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x7_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x6_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x7_W8.61mm_Slide_LowProfile.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W5.08mm_Slide_Copal_CHS-A.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W5.9mm_Slide_Copal_CVS.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W6.15mm_Slide_Omron_A6H.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W7.62mm_Slide_Copal_CHS-B.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x8_W8.61mm_Slide_LowProfile.wrl
-  (model ${KICAD4_3D_DIR}/Buttons_Switches.3dshapes/SW_DIP_x9_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x8_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_DIP_x9_W8.61mm_Slide_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_MEC_5GSH9.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SP3T_PCM13.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPDT_CK-JS102011SAQN.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPDT_PCM12.wrl
@@ -73,6 +97,7 @@
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes\SW_SPST_EVQQ2.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_FSMSM.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_KMR2.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_KMR2.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_PTS645.wrl
@@ -85,9 +110,11 @@
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_SKQG.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_TL3342.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/KSA_Tactile_SPST.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/Nidec_Copal_SH-7010C.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/Push_E-Switch_KS01Q01.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_CuK_JS202011AQN_DPDT_Angled.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_CuK_JS202011CQN_DPDT_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_CuK_OS102011MA1QN1_SPDT_Angled.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_DIP_x10_W7.62mm_Piano.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_DIP_x10_W7.62mm_Slide.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_DIP_x10_W7.62mm_Slide_LowProfile.wrl
@@ -127,8 +154,10 @@
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_E-Switch_EG1224_SPDT_Angled.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_E-Switch_EG2219_DPDT_Angled.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_Matias_Quiet.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_MEC_5GTH9.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_NKK_G1xJP.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH-12mm.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH-12mm_Wuerth-430476085716.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_6mm_h13mm.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_6mm_h4.3mm.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_6mm_h5mm.wrl
@@ -137,6 +166,8 @@
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_6mm_h8mm.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_6mm_h9.5mm.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_6mm.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_PUSH_LCD_E3_SAxxxx_SocketPins.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_Tactile_SKHH_Angled.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx31-2LFS.wrl
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_Tactile_SPST_Angled_PTS645Vx39-2LFS.wrl
@@ -147,12 +178,14 @@
   (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_TH_Tactile_Omron_B3F-10xx.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/Buzzer_12x9.5RM7.6.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/Buzzer_15x7.5RM7.6.wrl
+  (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/Buzzer_Murata_PKMCS0909E4000-R1.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/MagneticBuzzer_Kingstate_KCG0601.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/MagneticBuzzer_ProjectsUnlimited_AI-4228-TWT-R.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/MagneticBuzzer_ProSignal_ABI-009-RC.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/MagneticBuzzer_ProSignal_ABI-010-RC.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/MagneticBuzzer_ProSignal_ABT-410-RC.wrl
   (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/MagneticBuzzer_StarMicronics_HMB-06_HMB-12.wrl
+  (model ${KICAD4_3D_DIR}/Buzzers_Beepers.3dshapes/PUIAudio_SMT_0825_S_4_R.wrl
   (model ${KICAD4_3D_DIR}/Capacitors_SMD.3dshapes/C_0201.wrl
   (model ${KICAD4_3D_DIR}/Capacitors_SMD.3dshapes/C_0201.wrl
   (model ${KICAD4_3D_DIR}/Capacitors_SMD.3dshapes/C_0402.wrl
@@ -597,17 +630,130 @@
   (model ${KICAD4_3D_DIR}/Capacitors_THT.3dshapes/C_Rect_L9.0mm_W8.5mm_P7.50mm_MKT.wrl
   (model ${KICAD4_3D_DIR}/Capacitors_THT.3dshapes/C_Rect_L9.0mm_W9.5mm_P7.50mm_MKT.wrl
   (model ${KICAD4_3D_DIR}/Capacitors_THT.3dshapes/C_Rect_L9.0mm_W9.8mm_P7.50mm_MKT.wrl
-  (model ${KICAD4_3D_DIR}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h4.5mm.wrl
-  (model ${KICAD4_3D_DIR}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h6mm.wrl
-  (model ${KICAD4_3D_DIR}/Choke_SMD.3dshapes/Choke_SMD_12x12mm_h8mm.wrl
-  (model ${KICAD4_3D_DIR}/Choke_SMD.3dshapes/Choke_SMD_Taiyo_NRS50XX-Handsoldering.wrl
-  (model ${KICAD4_3D_DIR}/Choke_SMD.3dshapes/Choke_SMD_Taiyo_NRS50XX.wrl
-  (model ${KICAD4_3D_DIR}/Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_15x40mm.wrl
-  (model ${KICAD4_3D_DIR}/Choke_Toroid_ThroughHole.3dshapes/Choke_Toroid_horizontal_Diameter26mm.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Card.3dshapes/Hirose_DM3AT-SF-PEJM5.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Card.3dshapes/Hirose_DM3BT-DSF-PEJS.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Card.3dshapes/Hirose_DM3D-SF.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Card.3dshapes/MicroSd_Wurth_693072010801.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Female_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Female_Horizontal_Pitch2.29x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Female_Vertical_Pitch2.29x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Male_Horizontal_Pitch2.29x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15-HD_Male_Vertical_Pitch2.29x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-15_Male_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Female_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-25_Male_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Female_Horizontal_Pitch2.29x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Female_Vertical_Pitch2.29x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Male_Horizontal_Pitch2.29x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-26-HD_Male_Vertical_Pitch2.29x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Female_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-37_Male_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Female_Horizontal_Pitch2.29x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Female_Horizontal_Pitch2.29x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Female_Vertical_Pitch2.29x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Male_Horizontal_Pitch2.29x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Male_Horizontal_Pitch2.29x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-44-HD_Male_Vertical_Pitch2.29x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Female_Horizontal_Pitch2.41x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Female_Horizontal_Pitch2.41x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Female_Horizontal_Pitch2.41x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Female_Horizontal_Pitch2.41x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Female_Vertical_Pitch2.41x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Male_Horizontal_Pitch2.41x1.98mm_EdgePinOffset3.03mm_Housed_MountingHolesOffset4.94mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Male_Horizontal_Pitch2.41x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Male_Horizontal_Pitch2.41x1.98mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Male_Horizontal_Pitch2.41x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-62-HD_Male_Vertical_Pitch2.41x1.98mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Female_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_EdgeMount_Pitch2.77mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Horizontal_Pitch2.77x2.54mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset15.98mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset14.56mm_Housed_MountingHolesOffset8.20mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset7.70mm_Housed_MountingHolesOffset9.12mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.40mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Horizontal_Pitch2.77x2.84mm_EdgePinOffset9.90mm_Housed_MountingHolesOffset11.32mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Vertical_Pitch2.77x2.84mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_DSub.3dshapes/DSUB-9_Male_Vertical_Pitch2.77x2.84mm_MountingHoles.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX0605L0X_2x03x1.25mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1005L0X_2x05x1.25mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Harwin.3dshapes/Harwin_Gecko-G125-FVX1205L0X_2x06x1.25mm_Straight.wrl
@@ -736,6 +882,51 @@
   (model ${KICAD4_3D_DIR}/Connectors_Hirose.3dshapes/Hirose_DF63-4P-3.96DSA_04x3.96mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Hirose.3dshapes/Hirose_DF63-5P-3.96DSA_05x3.96mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Hirose.3dshapes/Hirose_DF63-6P-3.96DSA_06x3.96mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Hirose.3dshapes/Hirose_FH12-24S-0.5SH_1x24_P0.5mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x03_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x03_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x04_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x04_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x05_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x05_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x06_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x06_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x07_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x07_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x08_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x08_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x10_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x10_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x13_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x13_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x15_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x15_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x17_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x17_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x20_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x20_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x25_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x25_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x30_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x30_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x32_Pitch2.54mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IDC.3dshapes/IDC-Header_2x32_Pitch2.54mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_2B016F.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_2B016M.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_2B032F.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_2B032M.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_3B010F.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_3B010M.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_3B020F.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_3B020M.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_B032F.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_B032M.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_B064F.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Conn_DIN41612_B064M.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Socket_DIN41612-CaseC1-AC-Female-64Pin-2rows.kicad_mod.wrl
+    (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Socket_DIN41612-CaseC1-AC-Male-64Pin-2rows.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Socket_DIN41612-CaseC1-full-Female-96Pin-3rows.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_IEC_DIN.3dshapes/Socket_DIN41612-CaseC1-full-Male-96Pin-3rows.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JAE.3dshapes/JAE_FF08-25P_25x0.4mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JAE.3dshapes/JAE_FF08-29P_29x0.4mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JAE.3dshapes/JAE_FF08-41P_41x0.4mm_Angled.wrl
@@ -814,7 +1005,15 @@
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_J2100_S12B-J21DK-GG_2x06x2.50mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_J2100_S16B-J21DK-GG_2x08x2.50mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_J2100_S20B-J21DK-GG_2x10x2.50mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_JWPF_B02B-JWPF-SK-R_1x02_P2.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_JWPF_B03B-JWPF-SK-R_1x03_P2.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_JWPF_B04B-JWPF-SK-R_1x04_P2.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_JWPF_B06B-JWPF-SK-R_2x03_P2.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_JWPF_B08B-JWPF-SK-R_2x04_P2.00mm_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_LEA_SM02B-LEASS-TF_02x1.80mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_NV_B02P-NV_2x5.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_NV_B03P-NV_3x5.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_NV_B04P-NV_4x5.00mm_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_PH_B10B-PH-K_10x2.00mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_PH_B10B-PH-SM4-TB_10x2.00mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_PH_B11B-PH-K_11x2.00mm_Straight.wrl
@@ -923,6 +1122,49 @@
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_SUR_SM17B-SURS-TF_17x0.80mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_SUR_SM20B-SURS-TF_20x0.80mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_SUR_SM22B-SURS-TF_22x0.80mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B10PS-VH_2x10x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B10P-VH_10x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B10P-VH-B_10x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B10P-VH-FB-B_10x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B11P-VH-B_11x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B2PS-VH_2x2x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B2P-VH_2x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B2P-VH-B_2x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B2P-VH-FB-B_2x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B3PS-VH_2x3x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B3P-VH_3x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B3P-VH-B_3x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B3P-VH-FB-B_3x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B4PS-VH_2x4x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B4P-VH_4x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B4P-VH-B_4x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B4P-VH-FB-B_4x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B5PS-VH_2x5x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B5P-VH_5x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B5P-VH-B_5x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B5P-VH-FB-B_5x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B6PS-VH_2x6x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B6P-VH_6x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B6P-VH-B_6x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B6P-VH-FB-B_6x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B7PS-VH_2x7x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B7P-VH_7x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B7P-VH-B_7x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B7P-VH-FB-B_7x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B8PS-VH_2x8x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B8P-VH_8x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B8P-VH-B_8x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B8P-VH-FB-B_8x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B9PS-VH_2x9x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B9P-VH_9x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B9P-VH-B_9x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_B9P-VH-FB-B_9x3.96mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_S2P-VH_2x2x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_S3P-VH_2x3x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_S4P-VH_2x4x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_S5P-VH_2x5x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_S6P-VH_2x6x3.96mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_VH_S7P-VH_2x7x3.96mm_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_XAG_SM05B-XAGKS-BN-TB_5x2.50mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_XH_B02B-XH-A_02x2.50mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_XH_B03B-XH-A_03x2.50mm_Straight.wrl
@@ -1001,6 +1243,90 @@
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MegaFit_2x06x5.70mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MegaFit_2x06x5.70mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Microcoaxial_RF.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0210_02x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0211_02x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0215_02x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0216_02x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0217_02x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0218_02x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0219_02x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0410_04x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0411_04x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0415_04x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0416_04x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0417_04x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0418_04x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0419_04x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0610_06x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0611_06x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0615_06x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0616_06x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0617_06x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0618_06x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0619_06x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0810_08x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0811_08x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0815_08x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0816_08x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0817_08x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0818_08x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-0819_08x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1010_10x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1011_10x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1015_10x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1016_10x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1017_10x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1018_10x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1019_10x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1210_12x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1211_12x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1215_12x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1216_12x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1217_12x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1218_12x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1219_12x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1410_14x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1411_14x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1415_14x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1416_14x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1417_14x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1418_14x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1419_14x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1610_16x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1611_16x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1615_16x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1616_16x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1617_16x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1618_16x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1619_16x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1810_18x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1811_18x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1815_18x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1816_18x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1817_18x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1818_18x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-1819_18x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2010_20x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2011_20x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2015_20x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2016_20x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2017_20x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2018_20x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2019_20x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2210_22x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2211_22x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2215_22x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2216_22x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2217_22x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2218_22x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2219_22x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2410_24x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2411_24x3.00mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2415_24x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2416_24x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2417_24x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2418_24x3.00mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MicroFit_3.0-43045-2419_24x3.00mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Microfit3_Header_02x01_Angled_43045-020x.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Microfit3_Header_02x01_Straight_43045-0228.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Microfit3_Header_02x02_Angled_43045-040x.wrl
@@ -1101,6 +1427,16 @@
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MiniFit-JR-5569-22A2_2x11x4.20mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MiniFit-JR-5569-24A1_2x12x4.20mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MiniFit-JR-5569-24A2_2x12x4.20mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-22XX_1x02_Pitch10.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-32XX_1x03_Pitch10.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-42XX_1x04_Pitch10.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-52XX_1x05_Pitch10.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42819-62XX_1x06_Pitch10.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42820-22XX_1x02_Pitch10.00mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42820-32XX_1x03_Pitch10.00mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42820-42XX_1x04_Pitch10.00mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42820-52XX_1x05_Pitch10.00mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Mini-Fit_Sr_42820-62XX_1x06_Pitch10.00mm_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MiniFit-SR-43915-xx06_2x03x10.00mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MiniFit-SR-43915-xx08_2x04x10.00mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_MiniFit-SR-43915-xx10_2x05x10.00mm_Straight.wrl
@@ -1206,12 +1542,50 @@
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoBlade_53398-1371_13x1.25mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoBlade_53398-1471_14x1.25mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoBlade_53398-1571_15x1.25mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0207_1x02_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0307_1x03_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0407_1x04_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0507_1x05_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0607_1x06_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0707_1x07_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0807_1x08_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-0907_1x09_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-1007_1x10_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-1107_1x11_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-1207_1x12_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-1307_1x13_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-1407_1x14_P1.0mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_PicoClasp_501331-1507_1x15_P1.0mm_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Pico-EZmate_02x1.20mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Pico-EZmate_03x1.20mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Pico-EZmate_04x1.20mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Pico-EZmate_05x1.20mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Pico-EZmate_06x1.20mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Pico-EZmate_07x1.20mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_04x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_06x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_08x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_10x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_12x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_14x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_16x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_18x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_20x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_22x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_24x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90325_26x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_04x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_06x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_08x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_10x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_12x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_14x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_16x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_18x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_20x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_22x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_24x1.27mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Picoflex_90814_26x1.27mm_Straight.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Sabre_43160-0X02_02x7.49mm_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Sabre_43160-0X03_03x7.49mm_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Sabre_43160-0X04_04x7.49mm_Vertical.wrl
@@ -1232,6 +1606,60 @@
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Sabre_43160-XX05_05x7.49mm_Vertical_BoardLock.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Sabre_43160-XX06_06x7.49mm_Angled_BoardLock.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_Sabre_43160-XX06_06x7.49mm_Vertical_BoardLock.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-0810_2x04_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-1410_2x07_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-1430_2x07_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2010_2x10_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2030_2x10_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2210_2x11_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2230_2x11_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2410_2x12_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2430_2x12_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2610_2x13_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-2630_2x13_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-3010_2x15_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-3030_2x15_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-3210_2x16_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-3230_2x16_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-3410_2x17_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-4010_2x20_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-4030_2x20_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-4410_2x22_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-5010_2x25_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-5030_2x25_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-6010_2x30_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-6030_2x30_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-6410_2x32_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-7030_2x35_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-8010_2x40_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502426-8030_2x40_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-0820_2x04_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-1410_2x07_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-1430_2x07_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2010_2x10_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2030_2x10_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2210_2x11_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2230_2x11_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2410_2x12_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2430_2x12_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2610_2x13_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-2630_2x13_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-3010_2x15_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-3210_2x16_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-3230_2x16_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-3410_2x17_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-4010_2x20_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-4030_2x20_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-4410_2x22_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-5010_2x25_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-5030_2x25_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-6010_2x30_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-6030_2x30_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-6410_2x32_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-7030_2x35_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-8010_2x40_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-8030_2x40_P0.4mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack-502430-9030_2x45_P0.4mm_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack_Plug_2x08_Pitch0.5mm_55560-0161.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack_Plug_2x10_Pitch0.5mm_55560-0201.wrl
   (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SlimStack_Plug_2x11_Pitch0.5mm_55560-0221.wrl
@@ -1789,40 +2217,16 @@
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Banana_Jack_1Pin.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Banana_Jack_2Pin.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Banana_Jack_3Pin.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Barrel_Jack_CUI_PJ-036AH-SMT.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Barrel_Jack_CUI_PJ-102AH.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/bnc-ci.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes\BNC.wrl (at (xyz -0.50 0 0)) (scale (xyz 2 2 2)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/bornier2.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/bornier3.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/bornier4.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/bornier5.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/bornier6.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/c64abfd.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/c64abmd.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/c64acfd.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/C96ABCFD.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/C96ABCMD.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/CUI_PD-30.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB15F_CI.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB15FC.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB15FD.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB15M_CI.wrl (at (xyz -0.39 0.10 -0.03)) (scale (xyz 1 1 1)) (rotate (xyz 90 180 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB15MC.wrl (at (xyz -0.38 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB15MD.wrl (at (xyz 0.40 -0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB25F_CI.wrl (at (xyz 0.65 0.10 -0.03)) (scale (xyz 0.98 1 1)) (rotate (xyz 90 180 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB25FC.wrl (at (xyz 0.65 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB25FD.wrl (at (xyz -0.66 -0.06 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB25M_CI.wrl (at (xyz -0.65 0.10 -0.03)) (scale (xyz 0.98 1 1)) (rotate (xyz 90 180 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB25MC.wrl (at (xyz -0.66 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB25MD.wrl (at (xyz 0.66 -0.06 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB37FC.wrl (at (xyz 0.98 0.06 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9F_CI_INVERT.wrl (at (xyz 0 0.02 -0.03)) (scale (xyz 1 1 1)) (rotate (xyz 90 0 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9F_CI.wrl (at (xyz 0 0.12 -0.04)) (scale (xyz 1 1 1)) (rotate (xyz 90 180 0))))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9FC.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9FD.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9M_CI_INVERT.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9M_CI.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9MC.wrl
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/DB9MD.wrl (at (xyz 0.22 -0.06 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes\Fan_Pin_Header_Straight_1x03.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes\Fan_Pin_Header_Straight_1x04.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Grove_1x04.wrl
@@ -1831,6 +2235,19 @@
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/JACK_ALIM.wrl (at (xyz -0.24 0.00 0)) (scale (xyz 0.80 0.80 0.80)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/microSD_Card_Receptacle_Wuerth_693072010801.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/NMJ6HCD2.wrl (at (xyz 0.32 0.17 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz -90 0 180))))
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d0.7mm_L6.5mm_W1.8mm_FlatFork.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d0.9mm_L10.0mm_W2.4mm_FlatFork.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.0mm_L10.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.0mm_L10.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.1mm_L10.2mm_W3.5mm_Flat.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.1mm_L8.5mm_W2.5mm_FlatFork.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.2mm_L10.2mm_W2.9mm_FlatFork.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.2mm_L11.3mm_W3.0mm_Flat.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.3mm_L10.0mm_W3.5mm_Flat.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.3mm_L11.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.3mm_L11.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.3mm_L11.3mm_W2.8mm_Flat.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Pin_d1.4mm_L8.5mm_W2.8mm_FlatFork.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/PINTST.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/QMS-1X52-FEMALE-SMD.wrl (at (xyz 0 0 0)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/RJ45_8.wrl (at (xyz 0.18 -0.25 0)) (scale (xyz 0.40 0.40 0.40)) (rotate (xyz 0 0 0))))
@@ -1838,6 +2255,7 @@
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/SAS_mini_1888174.wrl (at (xyz 0.00 -0.04 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/SDS-50J.wrl (at (xyz 0.29 0.49 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz -90 0 180))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/SMB_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Stereo_Jack_3.5mm_Switch_Ledino_KB3SPRS.wrl
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/SUBCLICK.wrl (at (xyz 0 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/USB_A.wrl (at (xyz 0.14 0 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 90))))
   (model ${KICAD4_3D_DIR}/Connectors.3dshapes/USB_A_Vertical.wrl (at (xyz 0.01 -0.02 0.05)) (scale (xyz 0.41 0.41 0.41)) (rotate (xyz 0 -90 180))))
@@ -1913,91 +2331,153 @@
   (model ${KICAD4_3D_DIR}/Connectors_Samtec.3dshapes/SL-132-X-XX_1x32.wrl
   (model ${KICAD4_3D_DIR}/Sockets_BNC.3dshapes/BNC_Socket_TYCO-AMP.wrl
   (model ${KICAD4_3D_DIR}/Sockets_BNC.3dshapes/BNC_Socket_TYCO-AMP_LargePads.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_02x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_03x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_04x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_05x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_06x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_07x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_08x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_09x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_10x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_11x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_12x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_13x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_14x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_15x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_16x3.5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-10pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-11pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-12pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-13pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-14pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-15pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-16pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-2pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-3pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-4pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-5pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-6pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-7pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-8pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MKDS1.5-9pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_10pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_11pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_12pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_2pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_3pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_4pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_5pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_6pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_7pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_8pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_MPT-2.54mm_9pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_10pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_11pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_12pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_13pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_14pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_15pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_16pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_2pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_3pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_4pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_5pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_6pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_7pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_8pol.wrl
-  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Pheonix_PT-3.5mm_9pol.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB132_02x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB133_03x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_04x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_05x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_06x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_07x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_08x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_09x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_10x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_11x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_12x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_13x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_14x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_15x5mm_Straight.wrl
-  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_16x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-0_1x10_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-1_1x11_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-2_1x12_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-3_1x13_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-4_1x14_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-5_1x15_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-6_1x16_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-7_1x17_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-8_1x18_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84952-9_1x19_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-0_1x10_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-1_1x11_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-2_1x12_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-3_1x13_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-4_1x14_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-5_1x15_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-6_1x16_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-7_1x17_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-8_1x18_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_1-84953-9_1x19_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-0_1x20_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-1_1x21_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-2_1x22_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-3_1x23_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-4_1x24_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-5_1x25_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-6_1x26_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-7_1x27_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-8_1x28_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84952-9_1x29_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-0_1x20_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-1_1x21_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-2_1x22_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-3_1x23_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-4_1x24_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-5_1x25_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-6_1x26_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-7_1x27_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-8_1x28_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_2-84953-9_1x29_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_3-84952-0_1x30_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_3-84953-0_1x30_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84952-4_1x04_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84952-5_1x05_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84952-6_1x06_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84952-7_1x07_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84952-8_1x08_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84952-9_1x09_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84953-4_1x04_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84953-5_1x05_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84953-6_1x06_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84953-7_1x07_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84953-8_1x08_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TE-Connectivity.3dshapes/TE_84953-9_1x09_P1.0mm_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Altech_AK300-2_P5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Altech_AK300-3_P5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_Altech_AK300-4_P5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_bornier-2_P5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_bornier-3_P5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_bornier-4_P5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_bornier-5_P5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/Terminal_Blocks.3dshapes/TerminalBlock_bornier-6_P5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch2.0mm_Drill0.7mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch2.54mm_Drill0.7mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch2.54mm_Drill1.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch2.54mm_Drill1.3mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch3.81mm_Drill1.3mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch5.08mm_Drill0.7mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch5.08mm_Drill1.3mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch6.35mm_Drill1.3mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Bridge_Pitch7.62mm_Drill1.3mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Keystone_5000-5004_Miniature.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Keystone_5005-5009_Compact.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Keystone_5010-5014_Multipurpose.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Keystone_5015_Micro-Minature.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Keystone_5019_Minature.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D1.80mm_Drill1.0mm_Beaded.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D2.50mm_Drill1.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D2.50mm_Drill1.0mm_LowProfile.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D2.50mm_Drill1.85mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D2.54mm_Drill1.5mm_Beaded.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D2.60mm_Drill0.9mm_Beaded.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D2.60mm_Drill1.4mm_Beaded.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D2.60mm_Drill1.6mm_Beaded.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D3.50mm_Drill0.9mm_Beaded.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D3.50mm_Drill1.4mm_Beaded.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D3.80mm_Drill2.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D3.80mm_Drill2.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_TestPoints.3dshapes/Test_Point_Loop_D3.80mm_Drill2.8mm.wrl
   (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB3_A_Molex_48393-001.wrl
   (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_C_Plug_Molex_105444.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_C_Receptacle_Amphenol_12401548E4-2A.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl
   (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_C_Receptacle_Amphenol_12401610E4-2A.wrl
   (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_Micro-B_Molex-105017-0001.wrl
   (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_Micro-B_Molex_47346-0001.wrl
   (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_Micro-B_Vertical_Molex-105133-0001.step
-  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Converter_MeanWell-IRM-20-xx.wrl
-  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_Infineon_IR3898.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_Micro-B_Wuerth-614105150721_Vertical_CircularHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_Micro-B_Wuerth-614105150721_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_Micro-B_Wuerth-629105150521_CircularHoles.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_USB.3dshapes/USB_Micro-B_Wuerth-629105150521.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Hahn-HS-400XX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_MeanWell-IRM-20-XX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_SMMeanWell-IRM-02-XX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_SMMeanWell-IRM-03-XX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_THTMeanWell-IRM-02-XX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_THTMeanWell-IRM-03-XX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Traco-TMLM-04.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Traco-TMLM-05.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Traco-TMLM-10-20.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Vigortronix_VTX-214-010-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Vigortronix_VTX-214-010-XXX_Miniature.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/ACDC-Conv_Vigortronix-VTX-214-015-1XX.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_BOTHHAND_CFUDxxxx-Serie.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_BOTHHAND_CFUSxxxxEH-Serie.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_BOTHHAND_CFUSxxxx-Serie.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_CINCON_EC5BEXX_Dual.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_CINCON_EC5BEXX_Single.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_CINCON_EC6CXX_Dual_Tripple.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_CINCON_EC6CXX_Single.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_MeanWell_NID30.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_MeanWell_NID60.wrl
   (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_CRE1xxxxxx3C.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_CRE1xxxxxxDC.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_CRE1xxxxxxSC.wrl
   (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_NMAxxxxDC.wrl
   (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_NMAxxxxSC.wrl
   (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_muRata_NXE2SxxxxMC.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R5xxxDA.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R5xxxPA.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R-78B-2.0.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R-78E-0.5.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R-78HB-0.5.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R-78HB-0.5L.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_Recom_R-78HBxx-0.5.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_RECOM_R-78S-0.1.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TEN10-XXXX_Dual.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TEN10-xxxx.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TEN10-XXXX_Single.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TEN20-XXXX_Dual.wrl
   (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TEN20-xxxx.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TEN20-XXXX_Single.wrl
   (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TMR-1SM.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TMR_1-xxxx_Dual.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TMR_1-xxxx_Single.wrl
+  (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TMR_xxxx.wrl
   (model ${KICAD4_3D_DIR}/Converters_DCDC_ACDC.3dshapes/DCDC-Conv_TRACO_TSR-1.wrl
   (model ${KICAD4_3D_DIR}/Crystals.3dshapes/Crystal_AT310_d3.0mm_l10.0mm_Horizontal_1EP_style1.wrl
   (model ${KICAD4_3D_DIR}/Crystals.3dshapes/Crystal_AT310_d3.0mm_l10.0mm_Horizontal_1EP_style2.wrl
@@ -2186,6 +2666,11 @@
   (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_MiniMELF.wrl
   (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_MiniMELF.wrl
   (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_PowerDI-123.wrl
+  (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_Powermite2_AK.wrl
+  (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_Powermite2_KA.wrl
+  (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_Powermite3.wrl
+  (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_Powermite_AK.wrl
+  (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_Powermite_KA.wrl
   (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_SC-80.wrl
   (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_SC-80.wrl
   (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_SMA.wrl
@@ -2274,6 +2759,7 @@
   (model ${KICAD4_3D_DIR}/Diodes_THT.3dshapes/D_T-1_P5.08mm_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/7SEGMENT-LED__HDSM531_HDSM533_SMD.wrl
   (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/7SegmentLED_LTS6760_LTS6780.wrl
+  (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/AD-121F2.wrl
   (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/CA56-12CGKWA.wrl
   (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/CA56-12EWA.wrl
   (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/CA56-12SEKWA.wrl
@@ -2311,8 +2797,19 @@
   (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/MAN73A.wrl
   (model ${KICAD4_3D_DIR}/Displays_7-Segment.3dshapes/SBC18-11SURKCGKWA.wrl
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/AG12864E.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/CR2013-MI2120.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_DOGS104X-A.wrl
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_DOGXL160-7_Backlight.wrl
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_DOGXL160-7.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA-eDIP128B-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIP160-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIP240-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIP320X-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIPTFT32-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIPTFT43-ATC.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIPTFT43-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIPTFT57-XXX.wrl
+  (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIPTFT70-ATC.wrl
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_eDIPTFT70-XXX.wrl
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/EA_T123X-I2C.wrl
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/HDSM-441B_HDSM-443B.wrl
@@ -2330,8 +2827,15 @@
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/RC1602A.wrl
   (model ${KICAD4_3D_DIR}/Displays.3dshapes/WC1602A.wrl
   (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/BladeFuse-CarType.wrl
+  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/BladeFuse-Mini_Keystone_3568.wrl
   (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/BladeFuse-Mini.wrl
-  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/Fuseholder_Schruter_FUP_horiz_closed_5x20mm_or_6.3x32mm.wrl
+  (descr "Fuseholder 5x20mm horizontal Shurter model FAB, Suitable for order numbers 0031.3551 and 0031.3558  (https://www.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_FAB.pdf)")
+  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/Fuseholder_Cylinder-5x20mm_Schurter_FAB_0031-355x_Horizontal_Closed.wrl
+  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed.wrl
+  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/Fuseholder_Cylinder-5x20mm-or-6.3x32mm_Schurter_FUP_0031.25x0_Horizontal_Closed.wrl
+  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/Fuse_Littelfuse-LVR100.wrl
+  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/Fuse_Littelfuse-LVR125.wrl
+  (model ${KICAD4_3D_DIR}/Fuse_Holders_and_Fuses.3dshapes/Fuse_Littelfuse-LVR200.wrl
   (model ${KICAD4_3D_DIR}/Hall-Effect_Transducers_LEM.3dshapes/HTFS-Series_LEM-HallEffektCurrentTransducer.wrl
   (model ${KICAD4_3D_DIR}/Hall-Effect_Transducers_LEM.3dshapes/HX02_HX03_HallEffectCurrentTransducer.wrl
   (model ${KICAD4_3D_DIR}/Hall-Effect_Transducers_LEM.3dshapes/HX04_HX05_HallEffectCurrentTransducer.wrl
@@ -2363,16 +2867,20 @@
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/BGA-96_2x3x16_9.0x13.0mm_Pitch0.8mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Maxim_WLP-12.wrl
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_DSBGA-12_3x4_1.36x1.86mm_Pitch0.5mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_DSBGA-8_2x4_0.9x1.9mm_Pitch0.5mm_Dia0.25mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_DSBGA-6_2x3_0.9x1.4mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_DSBGA-8_2x4_0.9x1.9mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_DSBGA-8_3x3_1.43x1.41mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_DSBGA-9_3x3_1.4715x1.4715mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_MicroStar_Junior_BGA-12_4x3_2.0x2.5mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_MicroStar_Junior_BGA-80_9x9_5.0x5.0mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/UFBGA-132_7x7mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/Bosch_WLCSP-12_1.56x1.56mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/LFCSP-16-1EP_3x3mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/LFCSP-8-1EP_2x3mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/LFCSP-8_2x2mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/LFCSP-VQ-48-1EP_7x7mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/WLCSP-16_4x4_2.17x2.32mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/WLCSP-6_1.4x1.0mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/WLCSP-81_4.41x3.76mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/AMS_QFN-4-1EP_2x2mm_Pitch0.95mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/DFN-10-1EP_2x3mm_Pitch0.5mm.wrl
@@ -2415,7 +2923,14 @@
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/DFN-8_2x2mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/DFN-S-8-1EP_6x5mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Fairchild_MLP14D.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Infineon_MLPQ-16-14-1EP_4x4mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Infineon_MLPQ-40-32-1EP_7x7mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm_Pad5.15x5.15mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Infineon_MLPQ-48-1EP_7x7mm_Pitch0.5mm_Pad5.55x5.55mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Infineon_PQFN-22-15-4EP_6x5mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Infineon_PQFN-44-31-5EP_7x7mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/DFN-14-1EP_3x4mm_Pitch0.5mm.wrl
+  (model "${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Linear_UGK52_QFN-46-52.wrl"
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-12-1EP_3x3mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_3x3mm_Pitch0.5mm.wrl
@@ -2453,11 +2968,18 @@
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-42-1EP_5x6mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-44-1EP_7x7mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-44-1EP_8x8mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-44-1EP_9x9mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-44-1EP_9x9mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-48-1EP_6x6mm_Pitch0.4mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-48-1EP_6x6mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-48-1EP_7x7mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-52-1EP_7x8mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-64-1EP_9x9mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/ROHM_DFN0604-3.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/SiliconLabs_QFN-20-1EP_3x3mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/ST_UFQFPN-20_3x3mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/TDFN-12_2x3mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-40-1EP_6x6mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-40-1EP_6x6mm_Pitch0.5mm.wrl
@@ -2465,6 +2987,7 @@
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/QFN-16-1EP_4x4mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_S-PVQFN-N14.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_S-PVQFN-N36.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_VQFN-RGR-20-1EP_3.5x3.5mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_VQFN-RGW-20-1EP_5x5mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_WQFN-MR-100.wrl
@@ -2481,173 +3004,219 @@
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/UQFN-48-1EP_6x6mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/VDFN-8-1EP_2x2mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/WQFN-32-1EP_5x5mm_Pitch0.5mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W11.48mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W10.16mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W8.89mm_SMDSocket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W9.53mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-10_W8.89mm_SMDSocket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W10.16mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W8.89mm_SMDSocket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W11.48mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-12_W8.89mm_SMDSocket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W10.16mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W8.89mm_SMDSocket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W9.53mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W11.48mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-14_W8.89mm_SMDSocket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W10.16mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W8.89mm_SMDSocket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W9.53mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-16_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W8.89mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-18_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W8.89mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-20_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W11.43mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W10.16mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W11.43mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W8.89mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-22_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W11.43mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W10.16mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W11.43mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W16.51mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W15.24mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W16.51mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W8.89mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-24_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W16.51mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W15.24mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W16.51mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W8.89mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-28_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W16.51mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W15.24mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W16.51mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-32_W7.62mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W16.51mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W15.24mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W16.51mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W26.67mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W25.4mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-40_W26.67mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W16.51mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W15.24mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-42_W16.51mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W16.51mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W15.24mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-48_W16.51mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W10.16mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W11.48mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W10.16mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W8.89mm_SMDSocket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W9.53mm_Clearance8mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W9.53mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-4_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W16.51mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W15.24mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W16.51mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W24.13mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W22.86mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W24.13mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W26.67mm_SMDSocket_LongPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W25.4mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-64_W26.67mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W10.16mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W11.48mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W10.16mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W8.89mm_SMDSocket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W9.53mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-6_W8.89mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W10.16mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W11.48mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W10.16mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm_SMD.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm_SMDSocket_SmallPads.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm_SMDSocket.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm_Socket.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm_Socket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W8.89mm_SMDSocket_LongPads.wrl
-  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W9.53mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W7.62mm_Socket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/DIP-8_W8.89mm_SMDSocket.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-10_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-10_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-10_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-10_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-12_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-12_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-12_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-12_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-14_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-14_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-14_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-14_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-16_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-16_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-16_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-16_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-18_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-18_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-18_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-18_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-20_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-20_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-20_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-20_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-22_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-22_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-22_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-22_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-24_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-24_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-24_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-24_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-28_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-32_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-32_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-32_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-32_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-40_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-40_W25.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-42_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-48_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-4_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-4_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-4_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-4_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-64_W15.24mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-6_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-6_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-6_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-6_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-8_W11.48mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-8_W7.62mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-8_W9.53mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/SMDIP-8_W9.53mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_DIP.3dshapes/Toshiba_11-7A9.wrl
   (model ${KICAD4_3D_DIR}/Housings_LCC.3dshapes/PLCC-20.wrl
   (model ${KICAD4_3D_DIR}/Housings_LCC.3dshapes/PLCC-20_SMD-Socket.wrl
@@ -2671,6 +3240,8 @@
   (model ${KICAD4_3D_DIR}/Housings_LCC.3dshapes/PLCC-84_SMD-Socket.wrl
   (model ${KICAD4_3D_DIR}/Housings_LCC.3dshapes/PLCC-84_THT-Socket.wrl
   (model ${KICAD4_3D_DIR}/Housings_LGA.3dshapes/AMS_LGA-10-1EP_2.7x4mm_Pitch0.6mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_LGA.3dshapes/Bosch_LGA-14_3x2.5mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_LGA.3dshapes/Bosch_LGA-8_2.5x2.5mm_Pitch0.65mm_ClockwisePinNumbering.wrl
   (model ${KICAD4_3D_DIR}/Housings_LGA.3dshapes/LGA-12_2x2mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_LGA.3dshapes/LGA-28_5.2x3.8mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_LGA.3dshapes/LGA-8_3x5mm_Pitch1.25mm.wrl
@@ -2698,8 +3269,15 @@
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/LQFP-64_7x7mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/LQFP-80_10x10mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/LQFP-80_12x12mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/LQFP-80_14x14mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-100_14x20mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-112_20x20mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-132_24x24mm_Pitch0.635mm_i386.wrl
+  (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-132_24x24mm_Pitch0.635mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-160_28x28mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-208_28x28mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-256_28x28mm_Pitch0.4mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-44_10x10mm_Pitch0.8mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/PQFP-80_14x20mm_Pitch0.8mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/TQFP-100_12x12mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/TQFP-100_14x14mm_Pitch0.5mm.wrl
@@ -2720,19 +3298,31 @@
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/TQFP-80_12x12mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/TQFP-80_14x14mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_QFP.3dshapes/TQFP-80-1EP_14x14mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/Sanyo_STK4xx-15_59.2x8.0mm_Pitch2.54mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/Sanyo_STK4xx-15_78.0x8.0mm_Pitch2.54mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP3_11.6x8.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP4_Sharp-SSR_Pitch7.62mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP4_Sharp-SSR_Pitch7.62mm_Angled.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP4_Sharp-SSR_Pitch7.62mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP-8_19x3mm_Pitch2.54mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP-9_21.54x3mm_Pitch2.54mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP9_Housing_BigPads.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SIP9_Housing.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/SLA704XM.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/STK672-040-E.wrl
   (model ${KICAD4_3D_DIR}/Housings_SIP.3dshapes/STK672-080-E.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/Diodes_PSOP-8.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HSOP-20-1EP_11.0x15.9mm_Pitch1.27mm_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HSOP-20-1EP_11.0x15.9mm_Pitch1.27mm_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HSOP-20-1EP_11.0x15.9mm_Pitch1.27mm_SlugUp.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/Infineon_PG-DSO-8-43.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/PowerPAK_SO-8_Dual.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/PowerPAK_SO-8_Single.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SO-20_12.8x7.5mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SO-4_4.4x2.3mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SO-4_4.4x3.6mm_Pitch2.54mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SO-4_4.4x4.3mm_Pitch2.54mm.wrl
@@ -2742,6 +3332,7 @@
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SO-6L_10x3.84mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SO-8_5.3x6.2mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SOIC-14_3.9x8.7mm_Pitch1.27mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SOIC-14W_7.5x9.0mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SOIC-16_3.9x9.9mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SOIC-16W_5.3x10.2mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SOIC-16W_7.5x10.3mm_Pitch1.27mm.wrl
@@ -2761,27 +3352,50 @@
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SSO-8_6.8x5.9mm_Pitch1.27mm_Clearance8mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/SSO-8_9.6x6.3mm_Pitch1.27mm_Clearance10.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/TI_SO-PowerPAD-8.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SOIC.3dshapes/Zetex_SM8.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Diodes_PowerDI3333-8.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Fairchild_MicroPak2-6_1.0x1.0mm_Pitch0.35mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Fairchild_MicroPak-6_1.0x1.45mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/NXP_XSON-16.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/ROHM_VML0806.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PDSO-N12.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PVSON-N10.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PVSON-N10.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PVSON-N8.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PVSON-N8.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PWSON-N10.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PWSON-N10.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/TI_X2SON-4_1x1mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/USON-10_2.5x1.0mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/USON-20_2x4mm_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/VSON-10-1EP_3x3mm_Pitch0.5mm_ThermalPad.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/VSON-8_3.3x3.3mm_Pitch0.65mm_NexFET.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/VSONP-8-1EP_5x6_Pitch1.27mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-10-1EP_2x3mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-10-1EP_2x3mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-10-1EP_4x3mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-12-1EP_3x2mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-12-1EP_3x2mm_Pitch0.5mm_ThermalVias.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-14_1EP_4.0x4.0mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-16_3.3x1.35_Pitch0.4mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON6_1.5x1.5mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-6-1EP_3x3mm_Pitch0.95mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-8_1EP_2x2mm_Pitch0.5mm_ThermalVias.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON-8_1EP_2x2mm_Pitch0.5mm_ThermalVias.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/WSON8_4x4mm_Pitch0.8mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/X2SON-8_1.4x1mm_Pitch0.35mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ETSSOP-20-1EP_4.4x6.5mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/HSOP-36-1EP_11.0x15.9mm_Pitch0.65mm_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/HSOP-36-1EP_11.0x15.9mm_Pitch0.65mm_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/HSOP-36-1EP_11.0x15.9mm_Pitch0.65mm_SlugUp.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/HTSSOP-20-1EP_4.4x6.5mm_Pitch0.65mm_ThermalPad.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/HTSSOP-28_4.4x9.7mm_Pitch0.65mm_ThermalPad.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/HTSSOP-32_6.1x11mm_Pitch0.65mm_ThermalPad.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/HTSSOP-56-1EP_6.1x14mm_Pitch0.5mm.wrl
+  (model "${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/Linear_MSOP-12-16-1EP_3x4mm_Pitch0.5mm.wrl"
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/MFSOP6-4_4.4x3.6mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/MFSOP6-5_4.4x3.6mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/MSOP-10-1EP_3x3mm_Pitch0.5mm.wrl
@@ -2812,16 +3426,26 @@
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-20_5.3x7.2mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-24_3.9x8.7mm_Pitch0.635mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-24_5.3x8.2mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-28_3.9x9.9mm_Pitch0.635mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-28_5.3x10.2mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-48_7.5x15.9mm_Pitch0.635mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-56_7.5x18.5mm_Pitch0.635mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/SSOP-8_2.95x2.8mm_Pitch0.65mm.wrl
-  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_MultiPowerSO-30.step
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_MultiPowerSO-30.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_PowerSSO-24_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_PowerSSO-24_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_PowerSSO-24_SlugUp.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_PowerSSO-36_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_PowerSSO-36_SlugDown.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/ST_PowerSSO-36_SlugUp.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSOP-5_1.65x3.05mm_Pitch0.95mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSOP-6_1.65x3.05mm_Pitch0.95mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSOP-I-32_18.4x8mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSOP-I-48_18.4x12mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSOP-I-56_18.4x14mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSOP-II-32_21.0x10.2mm_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-10_3x3mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-14-1EP_4.4x5mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-14_4.4x5mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-16_4.4x5mm_Pitch0.65mm.wrl
@@ -2840,69 +3464,7 @@
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/VSO-56_11.1x21.5mm_Pitch0.75mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/VSSOP-8_2.3x2mm_Pitch0.5mm.wrl
   (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/VSSOP-8_2.4x2.1mm_Pitch0.5mm.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Abracon_ASPI-3012S.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-1616.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-2020.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-3030.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-4040.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_MD-5050.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-20xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-20xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-24xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-24xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-30xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-30xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-40xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-40xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-50xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-50xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-60xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-60xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-80xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-80xx.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Vishay_IHSM-3825.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Vishay_IHSM-4825.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Vishay_IHSM-5832.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Vishay_IHSM-7382.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/INDUCTOR_V.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-1030.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-1040.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-1050.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-1335.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-1350.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-1365.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-1890.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-2212.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-5040.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-7030.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-7040.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCI-7050.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1050.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1052.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1070.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1078.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1190.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1240.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1350.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-1390.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-7050.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_HCM-7070.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-1610.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-2010.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-2506.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-2508.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-2510.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-2512.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-3010.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-3012.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-3015.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-3020.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/Inductor_Wurth_MAPI-4020.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/self_cms_we-pd3.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/self_cms_we-tpc_XL.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/SELF-WE-PD3S.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/SELF-WE-PD-XXL.wrl
-  (model ${KICAD4_3D_DIR}/Inductors.3dshapes/SELF-WE-TPC_M.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/VSSOP-8_3.0x3.0mm_Pitch0.65mm.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_0201.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_0402.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_0603.wrl
@@ -3004,7 +3566,7 @@
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Vishay_IHSM-3825.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Vishay_IHSM-4825.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Vishay_IHSM-5832.wrl
-  (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Vishay_IHSM-7382.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Vishay_IHSM-7832.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_HCI-1030.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_HCI-1040.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_HCI-1050.wrl
@@ -3038,6 +3600,7 @@
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_MAPI-3015.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_MAPI-3020.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_MAPI-4020.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_MAPI-4030.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_WE-DD-Typ-L-Typ-XL-Typ-XXL.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_WE-DD-Typ-M-Typ-S.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD2-Typ-L.wrl
@@ -3050,6 +3613,23 @@
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD-Typ-LS.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD-Typ-M-Typ-S.wrl
   (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_WE-PD-Typ-M-Typ-S.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_SMD.3dshapes/L_Wuerth_WE-TPC-3816.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN102-04-14.0x14.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN112-04-17.7x17.1mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN114-04-22.5x21.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN116-04-22.5x21.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN122-04-28.0x27.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN142-04-33.1x32.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN143-04-33.1x32.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN152-04-43.0x41.8mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN202-04-8.8x18.2mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN204-04-9.0x14.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN212-04-12.5x18.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN214-04-15.5x23.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN216-04-15.5x23.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN222-04-18.0x31.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN232-04-18.0x31.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/Choke_Schaffner_RN242-04-18.0x31.0mm.wrl
   (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P15.24mm_Horizontal_Fastron_MECC.wrl
   (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P5.08mm_Vertical_Fastron_MECC.wrl
   (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/L_Axial_L11.0mm_D4.5mm_P7.62mm_Vertical_Fastron_MECC.wrl
@@ -3267,30 +3847,6 @@
   (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/L_Toroid_Vertical_L48.8mm_W25.4mm_P20.80mm_Vishay_TJ8.wrl
   (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/L_Toroid_Vertical_L54.0mm_W23.8mm_P20.10mm_Bourns_5700.wrl
   (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/L_Toroid_Vertical_L67.6mm_W36.1mm_P31.80mm_Vishay_TJ9.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_L8-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_L8-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-DirectFET_ME.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MN-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MN-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MP-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MP-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MT-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MT-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MX-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MX-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_MZ-Outline_Numnbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_S1-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_S1-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_SH-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_SH-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_SJ-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_SJ-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_SQ-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Names.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Numbers.wrl
-  (model ${KICAD4_3D_DIR}/IR-DirectFETs.3dshapes/IR-directFET_ST-Outline_Numbers_SquareHeatSink.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_0402.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_0603.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_0603.wrl
@@ -3300,7 +3856,10 @@
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_1206.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_1206.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_1W_3W_R8.wrl
-  (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Cree-PLCC4.wrl
+  (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_BL-FL7680RGB.wrl
+  (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Cree-PLCC4_2x2mm_CW.wrl
+  (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Cree-PLCC4_3.2x2.8mm_CCW.wrl
+  (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Cree-PLCC4_5x5mm_CW.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Cree-XB.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Cree-XH.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Cree-XHP35.wrl
@@ -3358,6 +3917,7 @@
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED-L1T2_LUMILEDS.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_miniPLCC_2315.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_miniPLCC_2315.wrl
+  (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Normandled_WS2813-06_5.0x5.0mm_Pitch1.6mm.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_Oval_W5.2mm_H3.8mm.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes\LED_PLCC_2835_Handsoldering.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_PLCC_2835.wrl
@@ -3385,25 +3945,17 @@
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_SideEmitter_Rectangular_W4.5mm_H1.6mm.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl
   (model ${KICAD4_3D_DIR}/LEDs.3dshapes/LED_WS2812-PLCC6.wrl
-  (model ${KICAD4_3D_DIR}/Measurement_Points.3dshapes/Test_Point.wrl
+  (model ${KICAD4_3D_DIR}/Modules.3dshapes/Adafruit_HUZZAH_ESP8266_breakout.wrl
+  (model ${KICAD4_3D_DIR}/Modules.3dshapes/Adafruit_HUZZAH_ESP8266_breakout_WithMountingHoles.wrl
+  (model ${KICAD4_3D_DIR}/Modules.3dshapes/Maple_Mini.wrl
   (model ${KICAD4_3D_DIR}/Modules.3dshapes/ST_Morpho_Connector_144_STLink.wrl
   (model ${KICAD4_3D_DIR}/Modules.3dshapes/ST_Morpho_Connector_144_STLink.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_1-1_P1200_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P1165_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P2781_ETAL_HandSoldering.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P2781_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3000_ETAL_HandSoldering.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3000_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3181_ETAL_HandSoldering.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3181_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3188_ETAL_HandSoldering.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3188_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3191_ETAL_HandSoldering.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3191_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3324_ETAL.wrl
-  (model ${KICAD4_3D_DIR}/NF-Transformers_ETAL.3dshapes/NF-Transformer_P3356_ETAL.wrl
   (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/AmbientLightSensor_AMS_TSL2550_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/Broadcom_APDS-9301.wrl
+  (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/ColorSensor_Kingbright_KPS-5130.wrl
   (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/IRReceiver_Vishay_MINICAST-3pin.wrl
+  (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/Lite-On_LTR-303ALS-01.wrl
+  (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/ONSemi_QSE15x.wrl
   (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/Optoisolator_NSL-32.wrl (at (xyz 0.20 0.08 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
   (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/Optoisolator_VTL5C.wrl
   (model ${KICAD4_3D_DIR}/Opto-Devices.3dshapes/Optoisolator_VTL5Cx2.wrl
@@ -3441,6 +3993,7 @@
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_IQD_IQXO70-4pin_7.5x5.0mm.wrl
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4pin_2.5x2.0mm_HandSoldering.wrl
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG210-4pin_2.5x2.0mm.wrl
+  (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG3030CM.wrl
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG8002CA-4pin_7.0x5.0mm_HandSoldering.wrl
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG8002CA-4pin_7.0x5.0mm.wrl
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_SeikoEpson_SG8002CE-4pin_3.2x2.5mm_HandSoldering.wrl
@@ -3456,9 +4009,19 @@
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_TCXO_G158.wrl
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_TXC_7C-4pin_5.0x3.2mm_HandSoldering.wrl
   (model ${KICAD4_3D_DIR}/Oscillators.3dshapes/Oscillator_SMD_TXC_7C-4pin_5.0x3.2mm.wrl
-  (model ${KICAD4_3D_DIR}/PFF_PSF_PSS_Leadforms.3dshapes/PFF_Leadform_5pins.wrl
-  (model ${KICAD4_3D_DIR}/PFF_PSF_PSS_Leadforms.3dshapes/PSF_Leadform_5pins.wrl
-  (model ${KICAD4_3D_DIR}/PFF_PSF_PSS_Leadforms.3dshapes/PSS_Leadform_5pins.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_L8.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_ME.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_MN.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_MP.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_MT.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_MX.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_MZ.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_S1.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_S2.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_SH.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_SJ.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_SQ.wrl
+  (model ${KICAD4_3D_DIR}/Package_DirectFET.3dshapes/DirectFET_ST.wrl
   (model ${KICAD4_3D_DIR}/Pin_Headers.3dshapes/Pin_Header_Angled_1x01_Pitch1.00mm.wrl
   (model ${KICAD4_3D_DIR}/Pin_Headers.3dshapes/Pin_Header_Angled_1x01_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Pin_Headers.3dshapes/Pin_Header_Angled_1x01_Pitch2.00mm.wrl
@@ -4652,6 +5215,7 @@
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339S_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3339W_Vertical.wrl
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_PV36W.wrl
+  (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Copal_CT-6EP.wrl
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h2.5_Vertical_Px2.5mm_Py5.0mm.wrl
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h3.8_Vertical_Px3.8mm_Py5.0mm.wrl
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Piher_PT-10h5_Vertical_Px5.0mm_Py5.0mm.wrl
@@ -4690,6 +5254,8 @@
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Horizontal_MountLS.wrl
   (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_VishaySpectrol_248GJ_249GJ_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Relays_SMD.3dshapes/Relay_SPDT_AXICOM_HF3Series_50ohms_Pitch1.27mm.wrl
+  (model ${KICAD4_3D_DIR}/Relays_SMD.3dshapes/Relay_SPDT_AXICOM_HF3Series_75ohms_Pitch1.27mm.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_1-Form-A_Schrack-RYII_RM5mm.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_1-Form-B_Schrack-RYII_RM5mm.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_1-Form-C_Schrack-RYII_RM3.2mm.wrl
@@ -4697,6 +5263,7 @@
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_DPDT_AXICOM_IMSeries_Pitch5.08mm.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_DPDT_Finder_40.52.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_DPDT_FRT5.wrl
+  (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_DPDT_Omron_G5V-2.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_DPDT_Panasonic_JW2.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_DPDT_Schrack-RT2-FormC_RM5mm.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_DPDT_Schrack-RT2_RM5mm.wrl
@@ -4705,6 +5272,7 @@
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_SPDT_Finder_40.31.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_SPDT_Finder_40.51.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_SPDT_HJR-4102.wrl
+  (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_SPDT_OMRON-G5LE-1.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_SPDT_OMRON-G5Q.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_SPDT_OMRON-G6E.wrl
   (model ${KICAD4_3D_DIR}/Relays_THT.3dshapes/Relay_SPDT_PotterBrumfield_T9AP5D52_12V30A.wrl
@@ -4880,16 +5448,23 @@
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/BLE112-A.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/CYBLE-21pin-10x10mm.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/Digi_XBee_SMT.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/ESP-12E.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/HOPERF-RFM69HW.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/Hopref_RFM9XW_SMD.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/Hopref_RFM9XW_THT.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/Laird_BL652.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/Linx_RXM-GPS.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/MOD-nRF8001.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/nRF24L01_Breakout.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/Particle_P1.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/RFDigital_RFD77101.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/RN2483.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/RN42.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/RN42N.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/ST_SPBTLE.wrl
   (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/Telit_xL865.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/ZETA-433-SO_SMD.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/ZETA-433-SO_THT.wrl
   (model ${KICAD4_3D_DIR}/Shielding_Cabinets.3dshapes/Würth_36103205_20x20mm.wrl
   (model ${KICAD4_3D_DIR}/Shielding_Cabinets.3dshapes/Würth_36103255_25x25mm.wrl
   (model ${KICAD4_3D_DIR}/Shielding_Cabinets.3dshapes/Würth_36103305_30x30mm.wrl
@@ -4900,46 +5475,12 @@
   (model ${KICAD4_3D_DIR}/Shielding_Cabinets.3dshapes/Würth_36503305_30x30mm.wrl
   (model ${KICAD4_3D_DIR}/Shielding_Cabinets.3dshapes/Würth_36503505_50x50mm.wrl
   (model ${KICAD4_3D_DIR}/Shielding_Cabinets.3dshapes/Würth_36503605_60x60mm.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/BGA-256.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/BGA-256_pitch1mm_dia0.4mm.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/BGA-352.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/BGA-48.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/BGA-64-0.8mm.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/Conn-20.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/Conn-3_Inv.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/Conn-3.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/Conn-5_Inv.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/Conn-5.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/DIP-8_SMD.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/Fuse_SMD.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/LFCSP-40-1EP.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/powermite3.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/PQFP-160.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/PQFP-208.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SMD-1206_Pol.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SMD-1210_Pol.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SMD-2010_Pol.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SMD-2112_Pol.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SMD-2512_Pol.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SMD-4032.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SO-16-L.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SO-16-N.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SO-16-W.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOIC-14_N.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOIC-24.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOIC-8-N.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOJ-28-W.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOJ-32.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOJ-32-W.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOJ-40.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SOJ-42.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SSOP-14.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/SSOP-20.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/VLM0806_Housing_Handsoldering.wrl
-  (model ${KICAD4_3D_DIR}/SMD_Packages.3dshapes/VLM0806_Housing.wrl
   (model ${KICAD4_3D_DIR}/Sockets.3dshapes/40tex600.wrl
   (model ${KICAD4_3D_DIR}/Sockets.3dshapes/40tex-Ell600.wrl
   (model ${KICAD4_3D_DIR}/Sockets.3dshapes/PGA120.wrl
+  (descr "Module modele pour PGA 15 x 15 pins, pads ronds")
+  (descr "Support modele pour PGA 16 x 16 pins, pads ronds")
+  (descr "Support modele pour PGA 18 x 18 pins, pads ronds")
   (model ${KICAD4_3D_DIR}/Sockets.3dshapes/PLCC68.wrl
   (model ${KICAD4_3D_DIR}/Sockets.3dshapes/PLCC84.wrl
   (model ${KICAD4_3D_DIR}/Sockets.3dshapes/SUPPORT_SO8_ZIF.wrl
@@ -5463,15 +6004,246 @@
   (model ${KICAD4_3D_DIR}/Socket_Strips.3dshapes/Socket_Strip_Straight_2x40_Pitch2.00mm_SMD.wrl
   (model ${KICAD4_3D_DIR}/Socket_Strips.3dshapes/Socket_Strip_Straight_2x40_Pitch2.54mm.wrl
   (model ${KICAD4_3D_DIR}/Socket_Strips.3dshapes/Socket_Strip_Straight_2x40_Pitch2.54mm_SMD.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_02x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_03x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_04x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_05x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_06x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_07x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_08x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_09x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_10x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_11x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_12x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_13x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_14x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_15x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_4UCON_19963_16x3.5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type011_RT05502HBWC_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type011_RT05503HBWC_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type011_RT05504HBWC_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type011_RT05505HBWC_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type011_RT05506HBWC_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type055_RT01502HDWU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type055_RT01503HDWU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type055_RT01504HDWU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06302HBWC_Pitch3.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06303HBWC_Pitch3.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06304HBWC_Pitch3.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06305HBWC_Pitch3.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type059_RT06306HBWC_Pitch3.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type067_RT01902HDWC_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type067_RT01903HDWC_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type067_RT01904HDWC_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type067_RT01905HDWC_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type073_RT02602HBLU_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type073_RT02603HBLU_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type086_RT03402HBLC_Pitch3.81mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type086_RT03403HBLC_Pitch3.81mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type086_RT03404HBLC_Pitch3.81mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type086_RT03405HBLC_Pitch3.81mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type086_RT03406HBLC_Pitch3.81mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03502HBLU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03503HBLU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03504HBLU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03505HBLU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type094_RT03506HBLU_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01602HBWC_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01603HBWC_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01604HBWC_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01605HBWC_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type101_RT01606HBWC_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type171_RT13702HBWC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type171_RT13703HBWC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type171_RT13704HBWC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type171_RT13705HBWC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type171_RT13706HBWC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02702HBLC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02703HBLC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02704HBLC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02705HBLC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type175_RT02706HBLC_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type701_RT11L02HGLU_Pitch6.35mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type701_RT11L03HGLU_Pitch6.35mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type703_RT10N02HGLU_Pitch9.52mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_MetzConnect.3dshapes/TerminalBlock_MetzConnect_Type703_RT10N03HGLU_Pitch9.52mm.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB132_02x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB133_03x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_04x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_05x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_06x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_07x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_08x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_09x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_10x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_11x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_12x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_13x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_14x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_15x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Terminal_Blocks.3dshapes/TerminalBlock_Philmore_TB13x_16x5mm_Straight.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-10pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-11pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-12pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-13pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-14pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-15pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-16pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-2pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-3pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-4pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-5pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-6pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-7pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-8pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MKDS1.5-9pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_10pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_11pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_12pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_2pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_3pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_4pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_5pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_6pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_7pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_8pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_MPT-2.54mm_9pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_10pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_11pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_12pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_13pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_14pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_15pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_16pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_2pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_3pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_4pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_5pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_6pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_7pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_8pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_9pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00001_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00002_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00003_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00004_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00005_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00006_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00007_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00008_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00009_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00010_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00011_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00012_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00013_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00014_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00015_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00016_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00017_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00018_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00019_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00020_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00021_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00022_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00023_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00024_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00025_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00026_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00027_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00028_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00029_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00030_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00031_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00032_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00033_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00045_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00046_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00047_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00048_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00049_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00050_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00051_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00052_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00053_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00054_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00055_Pitch5.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00067_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00068_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00069_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00070_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00071_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00072_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00073_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00074_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00075_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00076_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00077_Pitch7.50mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00078_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00079_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00080_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00081_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00082_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00083_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00084_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00085_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00086_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00087_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00088_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00232_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00233_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00234_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00235_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00236_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00237_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00238_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00239_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00240_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00241_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00241_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00242_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00242_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00243_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00244_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00245_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00246_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00247_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00248_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00249_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00250_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00251_Pitch10.16mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00287_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00288_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00289_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00290_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00291_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00292_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00293_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00294_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00295_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00296_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00297_Pitch5.08mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00298_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00299_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00300_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00301_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00302_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00303_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00304_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00305_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00306_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00307_Pitch10.00mm.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_RND.3dshapes/TerminalBlock_RND_205-00308_Pitch10.00mm.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/Analog_KS-4.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/ATPAK-2.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/HVSOF5.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/HVSOF6.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/Infineon_PG-HSOF-8-1.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/Infineon_PG-HSOF-8-1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/Infineon_PG-TO-220-7Lead_TabPin8.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/PowerMacro_M234_NoHole.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/PowerMacro_M234_WithHole.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/PQFN_8x8.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/Rohm_HRP7.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes\SC-59.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SC-59.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SC-70-8.wrl
@@ -5523,7 +6295,7 @@
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SOT-89-3.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SOT-89-3.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes\SOT89-5_Housing_Handsoldering.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SOT89-5_Housing.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SOT-89-5_Housing.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SOT-963.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SuperSOT-3.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SuperSOT-6.wrl
@@ -5532,7 +6304,6 @@
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TDSON-8-1.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/Texas_DRT-3.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/SOT-363_SC-70-6.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-220-7Lead_TabPin8.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-252-2.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes\TO-252-2.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-252-3_TabPin2.wrl
@@ -5549,6 +6320,8 @@
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-263-6.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-263-7_TabPin4.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-263-7_TabPin8.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-263-9_TabPin10.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-263-9_TabPin5.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-268-2.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-277A.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-50-3_LongPad-NoHole_Housing.wrl
@@ -5561,21 +6334,17 @@
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TO-50-4_ShortPad-WithHole_Housing.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-5.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-5.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-6_MK06A.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-6_MK06A.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-6.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-6.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-8.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23-8.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/TSOT-23.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_SMD.3dshapes/VSOF5.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-11_Horizontal_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-11_Horizontal_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-11_Vertical_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-11_Vertical_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-15_Horizontal_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-15_Horizontal_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-15_Vertical_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Multiwatt-15_Vertical_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Allegro_CB_PFF.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Allegro_CB_PSF.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Allegro_CB_PSS.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/Fairchild_TO-220F-6L.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/SIPAK-1EP_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/SIPAK_Vertical.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-100-10.wrl
@@ -5609,30 +6378,39 @@
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-218_SOT93_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-218_SOT93_Horizontal_Reversed.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-218_SOT93_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-11_Horizontal_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-11_Horizontal_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-11_Vertical_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-11_Vertical_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-15_Horizontal_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-15_Horizontal_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-15_Vertical_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-15_Vertical_StaggeredType2.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-2_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-2_Horizontal_Reversed.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-2_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-3_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-3_Horizontal_Reversed.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-3_Vertical.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-4_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-4_Horizontal_Reversed.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-4_Vertical.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Pentawatt_Multiwatt-5_Horizontal.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Pentawatt_Multiwatt-5_Horizontal_Reversed.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Pentawatt_Multiwatt-5_Horizontal_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Pentawatt_Multiwatt-5_Vertical.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Pentawatt_Multiwatt-5_Vertical_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Pentawatt_Multiwatt-5_Vertical_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Multiwatt-7_Horizontal_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Multiwatt-7_Horizontal_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Multiwatt-7_Vertical_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Multiwatt-7_Vertical_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Multiwatt-9_Horizontal_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Multiwatt-9_Horizontal_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Multiwatt-9_Vertical_StaggeredType1.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Multiwatt-9_Vertical_StaggeredType2.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220_Horizontal.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220_Horizontal_Reversed.wrl
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Horizontal.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Horizontal_Reversed.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Horizontal_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Horizontal_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Vertical_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-5_Vertical_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Horizontal_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Horizontal_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Vertical_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-7_Vertical_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-8_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Horizontal_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Horizontal_StaggeredType2.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Vertical_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-9_Vertical_StaggeredType2.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-247-2_Horizontal.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-247-2_Horizontal_Reversed.wrl
   (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-247-2_Vertical.wrl
@@ -5811,10 +6589,6 @@
   (model ${KICAD4_3D_DIR}/Transformers_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D12.5mm_Amidon-T44.wrl
   (model ${KICAD4_3D_DIR}/Transformers_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D14.0mm_Amidon-T50.wrl
   (model ${KICAD4_3D_DIR}/Transformers_THT.3dshapes/Transformer_Toroid_Tapped_Horizontal_D9.0mm_Amidon-T30.wrl
-  (model ${KICAD4_3D_DIR}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-I_BigPads.wrl
-  (model ${KICAD4_3D_DIR}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_BigPads.wrl
-  (model ${KICAD4_3D_DIR}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-II_SmallPads.wrl
-  (model ${KICAD4_3D_DIR}/Transistors_OldSowjetAera.3dshapes/OldSowjetaera_Transistor_Type-I_SmallPads.wrl
   (model ${KICAD4_3D_DIR}/Valves.3dshapes/VALVE-ECC-83-1.wrl
   (model ${KICAD4_3D_DIR}/Valves.3dshapes/VALVE-ECC-83-2.wrl
   (model ${KICAD4_3D_DIR}/Valves.3dshapes/VALVE-EURO.wrl

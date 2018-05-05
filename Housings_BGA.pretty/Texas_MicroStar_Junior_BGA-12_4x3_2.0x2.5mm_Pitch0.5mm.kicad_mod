@@ -39,7 +39,7 @@
   (pad C4 smd circle (at 0.75 0.5) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad B4 smd circle (at 0.75 0) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
   (pad A4 smd circle (at 0.75 -0.5) (size 0.3 0.3) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Housings_BGA.3dshapes/Texas_MicroStar_Junior_BGA-12_4x3_2.0x2.5mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_MicroStar_Junior_BGA-12_4x3_2.0x2.5mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

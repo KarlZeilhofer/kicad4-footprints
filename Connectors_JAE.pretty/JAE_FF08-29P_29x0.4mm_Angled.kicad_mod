@@ -63,7 +63,7 @@
   (pad 24 smd rect (at 1.275 1.8 90) (size 0.18 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 26 smd rect (at 1.275 2.2 90) (size 0.18 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 28 smd rect (at 1.275 2.6 90) (size 0.18 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connectors_JAE.3dshapes/JAE_FF08-29P_29x0.4mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JAE.3dshapes/JAE_FF08-29P_29x0.4mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

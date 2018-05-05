@@ -75,7 +75,7 @@
   (pad 13 thru_hole oval (at 15.24 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 14 thru_hole oval (at 16.51 -2.54) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
   (pad 15 thru_hole oval (at 17.78 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-220-15_Horizontal_StaggeredType1.wrl
+  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-220-15_Horizontal_StaggeredType1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

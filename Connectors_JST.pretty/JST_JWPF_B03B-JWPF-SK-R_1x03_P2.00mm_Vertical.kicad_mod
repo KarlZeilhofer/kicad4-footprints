@@ -43,7 +43,7 @@
   (pad 2 thru_hole oval (at 0 2) (size 2.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 0 4) (size 2.5 1.5) (drill 1) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at -1.5 6.05) (size 1.1 1.1) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors_JST.3dshapes/JST_JWPF_B03B-JWPF-SK-R_1x03_P2.00mm_Vertical.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_JWPF_B03B-JWPF-SK-R_1x03_P2.00mm_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

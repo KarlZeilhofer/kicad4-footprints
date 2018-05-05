@@ -37,7 +37,7 @@
   (pad 2 smd rect (at 1.27 4.38) (size 0.89 0.46) (layers F.Cu))
   (pad 2 smd rect (at 1.27 -4.38) (size 0.89 0.46) (layers B.Cu))
   (pad 2 smd rect (at 1.27 4.38) (size 0.89 0.46) (layers B.Cu))
-  (model ${KISYS3DMOD}/Connectors_Molex.3dshapes/Molex_SMA_Jack_Edge_Mount.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_Molex.3dshapes/Molex_SMA_Jack_Edge_Mount.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

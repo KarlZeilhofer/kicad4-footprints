@@ -23,7 +23,7 @@
   (fp_line (start 6.66 2.6) (end -6.67 2.6) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -4.06 0) (size 4.7 4.7) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4.06 0) (size 4.7 4.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Resistors_SMD.3dshapes/R_2816.wrl
+  (model ${KICAD4_3D_DIR}/Resistors_SMD.3dshapes/R_2816.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

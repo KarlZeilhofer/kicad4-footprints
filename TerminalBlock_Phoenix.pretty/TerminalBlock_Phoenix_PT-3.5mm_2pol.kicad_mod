@@ -22,7 +22,7 @@
   (fp_line (start 5.25 -3.1) (end -1.75 -3.1) (layer F.SilkS) (width 0.15))
   (pad 2 thru_hole circle (at 3.5 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0 0) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_2pol.wrl
+  (model ${KICAD4_3D_DIR}/TerminalBlock_Phoenix.3dshapes/TerminalBlock_Phoenix_PT-3.5mm_2pol.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

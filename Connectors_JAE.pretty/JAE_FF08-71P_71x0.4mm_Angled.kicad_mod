@@ -105,7 +105,7 @@
   (pad 66 smd rect (at 1.275 6 90) (size 0.18 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 68 smd rect (at 1.275 6.4 90) (size 0.18 0.7) (layers F.Cu F.Paste F.Mask))
   (pad 70 smd rect (at 1.275 6.8 90) (size 0.18 0.7) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connectors_JAE.3dshapes/JAE_FF08-71P_71x0.4mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JAE.3dshapes/JAE_FF08-71P_71x0.4mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

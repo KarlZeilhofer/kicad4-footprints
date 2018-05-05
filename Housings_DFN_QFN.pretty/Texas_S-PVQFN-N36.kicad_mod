@@ -109,7 +109,7 @@
   (pad "" smd rect (at -1.43 -1.43) (size 1.23 1.23) (layers F.Paste))
   (pad "" smd rect (at 0 -1.43) (size 1.23 1.23) (layers F.Paste))
   (pad "" smd rect (at 1.43 -1.43) (size 1.23 1.23) (layers F.Paste))
-  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/Texas_S-PVQFN-N36.wrl
+  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_S-PVQFN-N36.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

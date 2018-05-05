@@ -45,7 +45,7 @@
   (pad C2 smd rect (at 0 0.5) (size 0.3 0.3) (layers F.Paste))
   (pad C3 smd rect (at 0.5 0.5) (size 0.3 0.3) (layers F.Paste))
   (pad B2 smd rect (at 0 0) (size 0.3 0.3) (layers F.Paste))
-  (model ${KISYS3DMOD}/Housings_BGA.3dshapes/Texas_DSBGA-9_3x3_1.4715x1.4715mm_Pitch0.5mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_BGA.3dshapes/Texas_DSBGA-9_3x3_1.4715x1.4715mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -59,7 +59,7 @@
   (pad 10 smd rect (at 6.75 -1.92) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
   (pad 11 smd rect (at 6.75 -3.19) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -2.75 2.89 90) (size 1.6 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/RF_Modules.3dshapes/ST_SPBTLE.wrl
+  (model ${KICAD4_3D_DIR}/RF_Modules.3dshapes/ST_SPBTLE.wrl
     (at (xyz 0 0.1125984252 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

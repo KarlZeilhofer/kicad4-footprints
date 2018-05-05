@@ -102,7 +102,7 @@
     (solder_mask_margin 0.001))
   (pad "" smd trapezoid (at 0.45 -0.31 180) (size 0.2 0.18) (rect_delta 0 0.1999 ) (layers F.Paste)
     (solder_mask_margin 0.001))
-  (model ${KISYS3DMOD}/Housings_SON.3dshapes/TI_X2SON-4_1x1mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/TI_X2SON-4_1x1mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -30,7 +30,7 @@
   (pad 3 thru_hole oval (at -3.05054 0.635) (size 2.286 1.5748) (drill 0.8128) (layers *.Cu *.Mask))
   (pad 4 thru_hole oval (at -8.13054 1.905) (size 2.286 1.5748) (drill 0.8128) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 0 0) (size 2.54 2.54) (drill 2.032) (layers *.Cu))
-  (model Sockets.3dshapes/SUPPORT_SO8_ZIF.wrl
+  (model ${KICAD4_3D_DIR}/Sockets.3dshapes/SUPPORT_SO8_ZIF.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.5 0.5 0.5))
     (rotate (xyz 0 0 0))

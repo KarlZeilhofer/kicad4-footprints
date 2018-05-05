@@ -29,7 +29,7 @@
   (pad 1 thru_hole circle (at 0 0) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.54 0) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at -5.08 0) (size 1.44 1.44) (drill 0.8) (layers *.Cu *.Mask))
-  (model Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296W.wrl
+  (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_Bourns_3296W.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -37,7 +37,7 @@
   (fp_line (start 7.7 -2.05) (end -7.7 -2.05) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 0 5.58) (size 3.6 3.6) (drill 1.8) (layers *.Cu *.Mask))
-  (model Inductors_THT.3dshapes/L_Toroid_Vertical_L14.7mm_W8.6mm_P5.58mm_Pulse_KM-1.wrl
+  (model ${KICAD4_3D_DIR}/Inductors_THT.3dshapes/L_Toroid_Vertical_L14.7mm_W8.6mm_P5.58mm_Pulse_KM-1.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

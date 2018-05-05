@@ -36,7 +36,7 @@
   (pad 5 thru_hole oval (at 2.9 -7.1) (size 4 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 4.1 -9.8) (size 4 2.2) (drill 1.3) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at -3.9 -4.6) (size 2.2 4) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Connectors.3dshapes/Stereo_Jack_3.5mm_Switch_Ledino_KB3SPRS.wrl
+  (model ${KICAD4_3D_DIR}/Connectors.3dshapes/Stereo_Jack_3.5mm_Switch_Ledino_KB3SPRS.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -116,7 +116,7 @@
   (pad 9 thru_hole circle (at 20 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 22.5 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
   (pad 11 thru_hole circle (at 25 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
-  (model Connectors_JST.3dshapes/JST_EH_S11B-EH_11x2.50mm_Angled.wrl
+  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_EH_S11B-EH_11x2.50mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -30,7 +30,7 @@
   (pad 1 smd rect (at 2.05 -0.8) (size 0.9 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 2.05 0.8) (size 0.9 1) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 0 -1.5) (size 1.7 0.55) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Buttons_Switches_SMD.3dshapes/SW_SPST_KMR2.wrl
+  (model ${KICAD4_3D_DIR}/Buttons_Switches_SMD.3dshapes/SW_SPST_KMR2.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

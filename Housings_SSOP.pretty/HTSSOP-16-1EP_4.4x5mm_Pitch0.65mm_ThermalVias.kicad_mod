@@ -46,7 +46,7 @@
   (pad 17 thru_hole circle (at 0.75 0) (size 0.75 0.75) (drill 0.33) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at -0.75 1.5) (size 0.75 0.75) (drill 0.33) (layers *.Cu *.Mask))
   (pad 17 thru_hole circle (at 0.75 1.5) (size 0.75 0.75) (drill 0.33) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm.wrl
+  (model ${KICAD4_3D_DIR}/Housings_SSOP.3dshapes/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
