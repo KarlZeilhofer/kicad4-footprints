@@ -30,7 +30,7 @@
   (fp_line (start -6.25 2.85) (end 6.25 2.85) (layer F.CrtYd) (width 0.05))
   (pad 1 smd rect (at -4 0 90) (size 3.9 3.9) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 4 0 90) (size 3.9 3.9) (layers F.Cu F.Paste F.Mask))
-  (model ${KICAD4_3D_DIR}/Diodes_SMD.3dshapes/D_3220.wrl
+  (model ${KISYS3DMOD}/Diodes_SMD.3dshapes/D_3220.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

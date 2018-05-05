@@ -29,7 +29,7 @@
   (pad 3 smd rect (at -6.5 -5) (size 2.5 2.5) (layers F.Cu F.Mask))
   (pad 2 smd rect (at 6.5 0) (size 2.5 2.5) (layers F.Cu F.Mask))
   (pad 1 smd rect (at -6.5 5) (size 2.5 2.5) (layers F.Cu F.Mask))
-  (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14VSMD_Horizontal_Px13.0mm_Py10.0mm.wrl
+  (model Potentiometers.3dshapes/Potentiometer_Trimmer_ACP_CA14VSMD_Horizontal_Px13.0mm_Py10.0mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

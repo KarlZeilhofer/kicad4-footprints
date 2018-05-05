@@ -133,7 +133,7 @@
   (pad D11 thru_hole circle (at -10.16 7.62) (size 1.397 1.397) (drill 0.7874) (layers *.Cu *.Mask))
   (pad D12 thru_hole circle (at -12.7 7.62) (size 1.397 1.397) (drill 0.7874) (layers *.Cu *.Mask))
   (pad D13 thru_hole circle (at -15.24 7.62) (size 1.397 1.397) (drill 0.7874) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Sockets.3dshapes/PGA120.wrl
+  (model Sockets.3dshapes/PGA120.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

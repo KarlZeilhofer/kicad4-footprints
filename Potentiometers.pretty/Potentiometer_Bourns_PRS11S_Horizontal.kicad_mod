@@ -35,4 +35,4 @@
   (pad 4 smd rect (at 8.25 2.50) (size 4 2) (layers F.Cu F.Mask))
   (pad 0 np_thru_hole circle (at 0.25 -5.65) (size 1.50 1.50) (drill 1.50) (layers *.Cu *.Mask))
   (pad 0 np_thru_hole circle (at 0.25 5.65) (size 1.50 1.50) (drill 1.50) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Bourns_PRS11S_Horizontal.wrl (at (xyz -0.65 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))
+  (model Potentiometers.3dshapes/Potentiometer_Bourns_PRS11S_Horizontal.wrl (at (xyz -0.65 0.00 0)) (scale (xyz 0.39 0.39 0.39)) (rotate (xyz 0 0 0))))

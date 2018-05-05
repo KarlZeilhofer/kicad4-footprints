@@ -33,6 +33,7 @@ Please note, that you should add these environment variables to both of your KiC
 
 ## Consequences
 * Every existing project, that has been using the libs v4 must reload it's footprints, so the paths to the 3D models get updated. 
+  I recommend to use the kicad-models-updater: https://github.com/KarlZeilhofer/kicad-models-updater
 * If you have your own footprint library, which uses KiCad's 3D models (version 4), you have to replace the KISYS3DMOD there too. You can use https://github.com/jlevy/repren to do this:
   `repren --from " \(model ([A-Za-z0-9])" --to " (model \${KISYS3DMOD}/\1" .`
   `repren --from KISYS3DMOD --to KICAD4_3D_DIR .`

@@ -41,7 +41,7 @@
   (pad 6 thru_hole circle (at -5 -10) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at -5 -5) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at -5 0) (size 2.34 2.34) (drill 1.3) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Potentiometers.3dshapes/Potentiometer_Alps_RK163_Double_Vertical.wrl
+  (model Potentiometers.3dshapes/Potentiometer_Alps_RK163_Double_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

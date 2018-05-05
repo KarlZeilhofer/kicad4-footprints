@@ -24,7 +24,7 @@
   (fp_line (start -6.35 -3.25) (end 11.35 -3.25) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole circle (at 0 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5 -0.5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Buttons_Switches_THT.3dshapes/SW_Matias_Quiet.wrl
+  (model ${KISYS3DMOD}/Buttons_Switches_THT.3dshapes/SW_Matias_Quiet.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

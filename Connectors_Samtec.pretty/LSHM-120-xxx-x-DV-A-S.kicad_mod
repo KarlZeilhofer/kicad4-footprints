@@ -65,7 +65,7 @@
   (pad 2 smd rect (at -4.75 1.85) (size 0.3 1.5) (layers F.Cu F.Paste F.Mask))
   (pad "" np_thru_hole circle (at -6 -0.85) (size 1.45 1.45) (drill 1.45) (layers *.Cu *.Mask))
   (pad 41 thru_hole circle (at 7.475 1.15) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Connectors_Samtec.3dshapes/LSHM-120-xxx-x-DV-A-S.wrl
+  (model ${KISYS3DMOD}/Connectors_Samtec.3dshapes/LSHM-120-xxx-x-DV-A-S.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 180))

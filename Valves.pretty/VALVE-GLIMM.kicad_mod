@@ -30,7 +30,7 @@
   (fp_arc (start 5.08 0) (end 5.08 -2.54) (angle 180) (layer F.SilkS) (width 0.12))
   (pad 1 thru_hole rect (at 0 0) (size 1.78 1.78) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 5.08 0) (size 1.78 1.78) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Valves.3dshapes/VALVE-GLIMM.wrl
+  (model ${KISYS3DMOD}/Valves.3dshapes/VALVE-GLIMM.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

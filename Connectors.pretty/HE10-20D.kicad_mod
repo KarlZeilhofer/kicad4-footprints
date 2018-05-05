@@ -49,4 +49,4 @@
   (pad 20 thru_hole circle (at 22.86 -2.54) (size 1.52 1.52) (drill 0.91) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at -8.89 -1.02) (size 5.46 5.46) (drill 2.69) (layers *.Cu *.Mask))
   (pad "" thru_hole circle (at 31.75 -1.02) (size 5.46 5.46) (drill 2.69) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Connectors.3dshapes\HE10-20D.wrl (at (xyz 0.45 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))
+  (model Connectors.3dshapes\HE10-20D.wrl (at (xyz 0.45 0.05 0)) (scale (xyz 1 1 1)) (rotate (xyz 0 0 0))))

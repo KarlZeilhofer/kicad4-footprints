@@ -49,7 +49,7 @@
   (pad 8 thru_hole oval (at 3.82233 -2.777085) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
   (pad 9 thru_hole oval (at 2.01767 -2.777085) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
   (pad 10 thru_hole oval (at 0.55767 -1.716333) (size 1.2 1.2) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/TO_SOT_Packages_THT.3dshapes/TO-5-10_Window.wrl
+  (model ${KISYS3DMOD}/TO_SOT_Packages_THT.3dshapes/TO-5-10_Window.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.393701 0.393701 0.393701))
     (rotate (xyz 0 0 0))

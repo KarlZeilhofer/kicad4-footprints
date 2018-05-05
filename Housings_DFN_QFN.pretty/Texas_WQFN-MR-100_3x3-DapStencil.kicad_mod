@@ -150,7 +150,7 @@
     (solder_paste_margin_ratio -0.11))
   (pad A53 smd rect (at 1.835 1.835) (size 1.83 1.83) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.11))
-  (model ${KICAD4_3D_DIR}/Housings_DFN_QFN.3dshapes/Texas_WQFN-MR-100.wrl
+  (model ${KISYS3DMOD}/Housings_DFN_QFN.3dshapes/Texas_WQFN-MR-100.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

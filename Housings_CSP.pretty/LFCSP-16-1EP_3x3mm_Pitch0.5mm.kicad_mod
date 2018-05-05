@@ -48,7 +48,7 @@
   (pad "" smd rect (at 0.45 -0.45) (size 0.7 0.7) (layers F.Paste))
   (pad "" smd rect (at -0.45 0.45) (size 0.7 0.7) (layers F.Paste))
   (pad "" smd rect (at -0.45 -0.45) (size 0.7 0.7) (layers F.Paste))
-  (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/LFCSP-16-1EP_3x3mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_CSP.3dshapes/LFCSP-16-1EP_3x3mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

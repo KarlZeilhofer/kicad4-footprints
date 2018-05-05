@@ -69,7 +69,7 @@
     (solder_paste_margin -0.05))
   (pad 8 smd oval (at 1.55 -0.975) (size 0.65 0.4) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin -0.05))
-  (model ${KICAD4_3D_DIR}/Housings_SON.3dshapes/Texas_S-PVSON-N8.wrl
+  (model ${KISYS3DMOD}/Housings_SON.3dshapes/Texas_S-PVSON-N8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

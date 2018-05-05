@@ -119,7 +119,7 @@
   (pad 1 thru_hole circle (at -30.25 -27.94) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -27.94 30.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -27.94 -30.25) (size 1.7 1.7) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Shielding_Cabinets.3dshapes/Würth_36503605_60x60mm.wrl
+  (model Shielding_Cabinets.3dshapes/Würth_36503605_60x60mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

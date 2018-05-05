@@ -111,7 +111,7 @@
   (pad G9 smd circle (at 1.6 0.8) (size 0.225 0.225) (layers F.Cu F.Paste F.Mask))
   (pad H9 smd circle (at 1.6 1.2) (size 0.225 0.225) (layers F.Cu F.Paste F.Mask))
   (pad J9 smd circle (at 1.6 1.6) (size 0.225 0.225) (layers F.Cu F.Paste F.Mask))
-  (model ${KICAD4_3D_DIR}/Housings_CSP.3dshapes/WLCSP-81_4.41x3.76mm_Pitch0.4mm.wrl
+  (model ${KISYS3DMOD}/Housings_CSP.3dshapes/WLCSP-81_4.41x3.76mm_Pitch0.4mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

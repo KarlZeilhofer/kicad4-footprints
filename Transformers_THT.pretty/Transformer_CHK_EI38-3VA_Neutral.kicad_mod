@@ -44,7 +44,7 @@
   (pad 8 thru_hole circle (at 25 -10) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 25 -5) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 25 0) (size 3 3) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Transformers_THT.3dshapes/Transformer_CHK_EI38-3VA_Neutral.wrl
+  (model ${KISYS3DMOD}/Transformers_THT.3dshapes/Transformer_CHK_EI38-3VA_Neutral.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

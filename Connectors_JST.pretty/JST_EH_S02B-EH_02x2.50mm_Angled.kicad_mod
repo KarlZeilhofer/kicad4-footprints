@@ -53,7 +53,7 @@
   (fp_line (start 5.65 -7.35) (end -3.15 -7.35) (layer F.CrtYd) (width 0.05))
   (pad 1 thru_hole rect (at 0 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 2.5 0) (size 1.85 1.85) (drill 0.9) (layers *.Cu *.Mask))
-  (model ${KICAD4_3D_DIR}/Connectors_JST.3dshapes/JST_EH_S02B-EH_02x2.50mm_Angled.wrl
+  (model Connectors_JST.3dshapes/JST_EH_S02B-EH_02x2.50mm_Angled.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
