@@ -3,7 +3,12 @@ kicad4-footprints
 
 This library provides a workaround to an incompatibility issue between KiCad 4 and KiCad 5, discussed here: https://github.com/KiCad/kicad-footprints/issues/503
 
-The origin of this repository is the zip-download for KiCad V4.0.7 library from http://downloads.kicad-pcb.org/libraries/kicad-footprints-4.0.7.tar.gz (20th of April, 2018). 
+The origin of this repository all the Git repos for KiCad V4 library downloaded with 
+```
+kicad-library-utils./download_pretty_libs.py -p ../kicad4-footprints/ 
+```
+on 3rd of May, 2018. They are deprecated, but can be useful with existing projects. 
+
 
 ## Do you need this?
 You only want to use this library, if you want to port KiCad 4 projects to KiCad 5, and still want to use the footprints and according 3D models from lib v4.
